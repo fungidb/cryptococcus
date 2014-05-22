@@ -19,7 +19,8 @@ VERSION = "2014-04-30"
 
 NEGATIVES = ("", "NONE", "NOT CALLED", "NONE CALLED", "NONE?", "SPLIT ORF", "UNSURE")
 
-CSVFILE = os.path.join(MD, "cryptococcus", "fromProvider",
+CSVFILE = os.path.join(MD, "cryptococcus",
+                       "Community_annotations", "fromProvider",
                        "Crypto_supplement.csv")
 
 COLS = ["CneoH99 ID", "CneoH99 Standard name", "CneoJEC21 ID",
