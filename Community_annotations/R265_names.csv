@@ -1,0 +1,636 @@
+ID,Standard name,alias,alias PMID,PMID used,Description
+CNBG_5990,ABP1,,,22562467,actin-binding protein homolog
+CNBG_1012,ACL1,,,23078142,ATP-citrate lyase
+CNBG_2182,ACO1,,,16524907,aconitate hydratase
+CNBG_1429,ACT1,,,17114598,actin
+CNBG_3815,ADA2,,,22174677,predicted saga histone acetyltransferase complex component
+CNBG_0983,ADA3,,,20581290,predicted saga histone acetyltransferase complex component
+CNBG_3509,ADE12,,,19542307,adenylosuccinate synthetase
+CNBG_4007,ADE2,,,8406836,phosphoribosylaminoimidazole carboxylase
+CNBG_1200,AFR1,,,16428784,ATP-binding cassette transporter
+CNBG_2461,AGS1,,,17244196,"alpha-1,3-glucan synthase"
+CNBG_3752,ALG7,,,21602483,UDP-N-acetyl-glucosamine-1-p transferase
+CNBG_5022,ALO1,,,19542307,"d-arabinono-1,4-lactone oxidase"
+CNBG_2113,ALR2,,,19542307,putative metal ion transporter
+CNBG_0332,AMT1,,,18055915,low-affinity ammonium transporter
+CNBG_6023,AMT2,,,18055915,ammonium transporter
+CNBG_0396,AOX1,,,14500501,altemrnative oxidase
+CNBG_5852,APG9,,,12455690,autophagy-related protein
+CNBG_1982,APP1,,,21971702,secreted antiphagocytic protein
+CNBG_4994,APT1,,,19949048,aminophospholipid translocase(flippase)
+CNBG_0847,APT2,,,19949048,aminophospholipid translocase (flippase)
+CNBG_1522,APT3,,,19949048,aminophospholipid translocase (flippase)
+CNBG_5706,APT4,,,19949048,aminophospholipid translocase (flippase)
+CNBG_3279,AQY1,,,19542307,aquaporin water channel
+CNBG_2790,ARF1,,,16775005,ADP-ribosylation factor
+CNBG_2340,ARF2,,,19542307,ADP-ribosylation factor
+CNBG_3466,ARG3,,,19151325,ornithine carbamoyltransferase
+CNBG_1306,ARG8,,,19151325,acetylornithine aminotransferase
+CNBG_5393,ATF1,,,16045626,activating transcription factor
+CNBG_2450,ATG2602,,,18854164,UDP-glucose sterol transferase
+CNBG_2706,ATM1,,,19542307,mitochondrial inner membrane ABC transporter
+CNBG_1793,ATP1,,,19542307,ATP synthase subunit alpha
+CNBG_4136,ATX1,,,16102007,putative copper ion transporter
+CNBG_5086,BAT2,,,18854164,branched-chain-amino-acid aminotransferase
+CNBG_6020,BCK1,,,16194228,mitogen-activated protein (map) kinase kinase kinase
+CNBG_3046,BDF1,,,19542307,bromodomain transcription factor
+CNBG_5477,BIM1,,,20044015,microtubule binding protein
+CNBG_5109,BLP1,,,21402362,barwin-like protein domain
+CNBG_5108,BLP2,,,21402362,pr4/barwin domain protein
+CNBG_4909,BLP3,,,21402362,pr4/barwin domain protein
+CNBG_3874,BLP4,,,21402362,pr4/barwin domain protein
+CNBG_4479,BLP5,,,21402362,pr4/barwin domain protein
+CNBG_0118,BLP6,,,21402362,pr4/barwin domain protein
+CNBG_3435,BNA5,,,19151325,kynureninase
+CNBG_3434,BNA6,,,19151325,nicotinate-nucleotide pyrophosphorylase
+CNBG_5652,BNI1,,,22562467,formin
+CNBG_5220,BNI4,,,18854164,putative scaffold protein
+CNBG_0441,BRE2,,,19542307,Set1/Ash2 histone methyltransferase complex subunit
+CNBG_5876,BSP1,,,12455690,protein of unknown function; encoded on mat locus
+CNBG_5870,BSP2,,,12455690,armadillo/beta-catenin repeat protein; encoded on mat locus
+CNBG_5860,BSP3,,,12455690,btp/pz domain protein
+CNBG_4515,BWC1,CWC1,15813738,15760278,white-collar transcription factor; blue-light photoresponsive gene
+CNBG_4137,BWC2,CWC2,15813738,15760278,"white-collar transcription factor, blue-light photoresponsive gene"
+CNBG_4842,BZP1,,,19151325,bZip domain protein
+CNBG_2383,CAC1,,,12455973,adenylate cyclase
+CNBG_1210,CAC2,,,23042129,chromatin assembly complex protein
+CNBG_3459,CAN1,,,16400172,beta-type carbonic anhydrase
+CNBG_4548,CAN2,,,16400172,beta-type carbonic anhydrase
+CNBG_3158,CAP10,,,10482503,capsule-associated protein
+CNBG_5873,CAP1alpha,,,12455690,O-glucosyltransferase
+CNBG_0724,CAP2,,,15728721,capsular related protein
+CNBG_0137,CAP4,,,17462022,"beta-1,2-xylosyltransferase"
+CNBG_0851,CAP5,,,15728721|17462022,"beta-1,2-xylosyltransferase"
+CNBG_1207,CAP59,,,8007987,"alpha-1,3-mannosyltransferase"
+CNBG_4756,CAP6,,,17462022,"alpha-1,3-mannosyltransferase"
+CNBG_1326,CAP60,,,9573112,capsule-associated protein
+CNBG_3534,CAP64,,,8675296,capsule-associated protein
+CNBG_5031,CAS1,,,11703667,O-acetyltransferase
+CNBG_0047,CAS3,,,15590825,capsule related protein
+CNBG_1227,CAS31,,,15590825,protein involved in gxm O-acetylation
+CNBG_0432,CAS32,,,15590825,capsule structure designer protein
+CNBG_3200,CAS33,,,15590825,capsular associated protein
+CNBG_3791,CAS34,,,15590825,putative capsule structure designer protein
+CNBG_1186,CAS35,,,15590825,capsular associated protein
+CNBG_5188,CAS4,,,17462022,putative sugar transporter
+CNBG_0097,CAS41,,,9806801,probable sugar phosphate/phosphate translocator; capsule biosynthetic protein
+CNBG_5538,CAS42,,,17462022,putative sugar transporter
+CNBG_4659,CAS91,,,17462022,putative maltose o-acetyltransferase
+CNBG_4696,CAT1,,,16963629,catalase 1 similar to spore-specific catalases
+CNBG_5786,CAT2,,,16963629,catalase 2
+CNBG_4667,CAT4,,,16963629,catalase 4
+CNBG_2055,CBK1,,,16775005,serine/threonine kinase of the ram signaling pathway
+CNBG_1133,CBP1,,,10899116,calcineurin binding protein
+CNBG_5045,CCC2,,,16102007,Cu(+2)-transporting p-type ATPase
+CNBG_0778,CCH1,,,16950930,Ca(2+)-permeable channel
+CNBG_1332,CCK1,,,21926330,casein kinase i
+CNBG_0879,CCK2,,,21926330,casein kinase i
+CNBG_0706,CCP1,,,19542307,putative mitochondrial cytochrome c peroxidase
+CNBG_2395,CCR4,,,17646356,ccr4-not transcriptional regulatory complex component
+CNBG_1745,CDA1,,,17400891,chitin deactylase
+CNBG_0797,MP98,CDA2,17400891,11504924,chitin-deacetylase
+CNBG_0806,CDA3,,,17400891,chitin deacetylase
+CNBG_0933,CDC10,,,22466042,septin ring protein
+CNBG_5339,CDC11,,,22466042,septin
+CNBG_3277,CDC12,,,22466042,septin
+CNBG_2802,CDC24,,,17233829,guanine nucleotide exchange factor (GEF)
+CNBG_1491,CDC2801,,,18854164,cyclin-dependent kinase of PITSLRE subfamily
+CNBG_1625,CDC3,,,22466042,septin ring protein
+CNBG_2496,CDC42,,,20025659,rho-like GTPase
+CNBG_1594,CDC420,,,20025659,rho-like GTPase
+CNBG_3413,CDC43,,,24014765,geranylgeranyltransferase-I beta subunit
+CNBG_1325,CEL1,,,9573112,putative glycosyl hydrolase
+CNBG_1139,CFL1,,,22737071,hyphal flocculin
+CNBG_4942,CFO1,,,19542307,ferroxidase/laccase
+CNBG_3601,CFO2,,,19542307,ferroxidase
+CNBG_4943,CFT1,,,18282105,major iron permease
+CNBG_3602,CFT2,,,18282105,iron permease
+CNBG_0096,CFT3,,,18282105,iron permease
+CNBG_2196,CHI2,,,19734369,endochitinase
+CNBG_3188,CHI21,,,19734369,endochitinase
+CNBG_2800,CHI22,,,19734369,endochitinase
+CNBG_4063,CHI4,,,19734369,endochitinase
+CNBG_2444,CHO2,,,18854164,phosphatidylethanolamine N-methyltransferase
+CNBG_2483,CHS1,,,16278457,putative chitin synthase
+CNBG_2274,CHS2,,,16278457,putative chitin synthase
+CNBG_4291,CHS3,,,16278457,putative chitin synthase
+CNBG_1375,CHS4,,,16278457,putative chitin synthase
+CNBG_1726,CHS5,,,16278457,putative chitin synthase
+CNBG_4981,CHS6,,,16278457,putative chitin synthase
+CNBG_5357,CHS7,,,16278457,putative chitin synthase
+CNBG_3712,CHS8,,,16278457,putative chitin synthase
+CNBG_3057,CID14,,,23966870,TRAMP complex associated poly(a) polymerase
+CNBG_5872,CID1alpha,,,12455690,cid1-family polyA polymerase
+CNBG_3792,CIG1,,,15720553,cytokine inducing-glycoprotein
+CNBG_2378,CIN1,,,20345666,"intersectin, C-terminal rhoGEF"
+CNBG_5691,CIR1,,,17121456,iron-responsive gata-type transcription factor
+CNBG_0493,CIT1,,,17114598,citrate synthase
+CNBG_2039,CKB1,,,20696827,casein kinase II beta chain
+CNBG_3090,CLC-A,,,14622414,putative voltage-gated chloride channel
+CNBG_0021,CLP1,,,17993575,clampless protein essential for dikaryotic filament formation
+CNBG_2426,CMT1,,,14504286,"alpha-1,3-mannosyltransferase"
+CNBG_5632,CNA1,,,9184205,calcineurin a catalytic subunit
+CNBG_6073,CNB1,,,11251806,"calcineurin b, regulatory subunit"
+CNBG_3779,COQ2,,,19542307,4-hydroxybenzoate polyprenyl transferase
+CNBG_0031,CPA1,,,11415984,cyclophilin A
+CNBG_0025,CPA2,,,11415984,cyclophilin A
+CNBG_4226,CPK1,,,12828643,mitogen activated protein kinase
+CNBG_3452,CPL1,,,18854164,putative secreted protein
+CNBG_5530,CPR2,,,19322200,nonmating-type specific pheromone G-protein coupled receptor
+CNBG_2732,CPS1,,,16790766,polysaccharide synthase
+none called,CQS1,,,15686566,quorum sensing-like molecule
+CNBG_0431,CRG1,,,15302835,regulator of G-protein signaling
+CNBG_0931,CRG2,,,18658258,regulator of G protein signaling
+CNBG_3250,CRG3,,,18658258,regulator of G protein signaling
+CNBG_4898,CRK1,,,21111055,protein kinase
+CNBG_5724,CRN1,,,22562467,"coronin, putative cortical actin cytoskeletal component"
+CNBG_3242,CSN1201,,,18854164,cop9 signalosome subunit 12
+CNBG_2433,CSN4,,,18854164,similar to cop9 signalosome subunit 4
+CNBG_2867,CSN7,,,18854164,similar to cop9 signalosome subunit 7
+CNBG_1890,CSR1,,,16278457,putative chitin synthase regulator
+CNBG_3991,CSR2,,,16278457,putative chitin synthase regulator
+CNBG_6108,CSR3,,,16278457,putative chitin synthase regulator
+CNBG_0993,CTF4,,,19542307,chromosome transmission fidelity protein
+CNBG_0560,CTR4,,,17290306,copper uptake transporter
+CNBG_2187,CTS1,,,14555485,calcineurin temperature suppressor
+CNBG_2252,CUF1,,,15334556,copper-sensing transcription factor
+CNBG_4546,CXT1,,,17430900,"beta-1,2-xylosyltransferase"
+CNBG_1848,DAM1,,,19749173,pre-mRNA-splicing factor
+CNBG_5044,DAP2,,,21602483,putative dipeptidyl aminopeptidase
+CNBG_5959,DCN1,,,22719877,scaffold-type e3 ligase
+CNBG_0934,DHA1,,,11035725,delayed-type hypersensitivity antigen
+CNBG_1371,DIP5,,,20485569,amino acid transporter
+CNBG_1173,DOA4,,,18854164,ubiquitin carboxyl-terminal hydrolase
+CNBG_1168,DPH1,,,19151325,diphthamide biosynthesis protein
+CNBG_6050,DUR3,,,19542307,putative urea transporter
+CNBG_3511,EBG1,,,20485569,"endo-1,3(4)-beta-glucanase"
+CNBG_4280,ECA1,,,17502401,sarcoplasmic/endoplasmic reticulum Ca2+-ATPase
+CNBG_6078,ECM2201,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNBG_0686,EF3,,,11244063,elongation factor 3
+CNBG_1305,EGCrP1,,,22072709,fungus-specific glucosylceramide
+CNBG_3177,ELP3,,,19542307,pol II transcription elongation factor
+CNBG_1386,ENA1,,,19542307,p-type ATPase sodium pump
+CNBG_5896,ERG1,,,19542307,squalene monooxygenase
+CNBG_3562,ERG10,,,17645443,acetyl-CoA C-acetyltransferase
+CNBG_0513,ERG11,,,17645443,lanosterol 14-alpha-demethylase
+CNBG_2289,ERG13,,,17645443,hydroxymethylglutaryl-CoA synthase
+CNBG_3543,ERG130,,,17645443,hydroxymethylglutaryl-CoA synthase
+CNBG_1089,ERG2,,,17645443,C-8 sterol isomerase
+CNBG_5233,ERG20,,,19542307,farnesyl pyrophosphate synthetase
+CNBG_0438,ERG24,,,17645443,C-14 sterol reductase
+CNBG_3274,ERG25,,,17645443,C-4 methyl sterol oxidase
+CNBG_1043,ERG26,,,19542307,C-3 sterol dehydrogenase
+CNBG_0746,ERG27,,,19542307,3-keto sterol reductase
+CNBG_3650,ERG28,,,19542307,putative ER membrane protein
+CNBG_1396,ERG3,,,17645443,C-5 sterol desaturase
+CNBG_3483,ERG4,,,17645443,C-24(28) sterol reductase
+CNBG_1921,ERG5,,,17645443,C-22 sterol desaturase
+CNBG_1537,ERG6,,,17645443,sterol 24-C-methyltransferase
+CNBG_0697,ERG7,,,17645443,lanosterol synthase
+CNBG_4743,ERG8,,,19542307,phosphomevalonate kinase
+CNBG_3360,ESS1,,,15870468,peptidyl-prolyl cis-trans isomerase
+CNBG_5866,ETF1alpha,,,12455690,electron transfer flavoprotein alpha subunit
+CNBG_5365,EXG104,,,18854164,"glucan 1,3-beta-glucosidase"
+CNBG_5881,FAO1,,,12455690,putative fatty alcohol oxidase in the mating-type locus
+CNBG_5247,FAS1,,,17698629,fatty acid synthase beta subunit
+CNBG_5248,FAS2,,,17698629,fatty acid synthase complex protein
+CNBG_5705,FBP1,,,21478432,f-box protein of scf ubiquitin-ligase complex
+CNBG_1313,FCY1,,,22080454,cytosine deaminase
+CNBG_3227,FCY2,,,22080454,cytosine permease
+CNBG_4695,FCY3,,,22080454,putative cytosine-purine permease
+CNBG_2773,FCY4,,,22080454,cytosine permease
+CNBG_3964,FHB1,,,14614821,flavohemoglobin
+CNBG_4964,FKS1,,,9882657,"1,3-beta-glucan synthase component"
+CNBG_1563,FNX1,,,23028773,multidrug resistance transporter
+CNBG_5149,FPD1,,,17400891,polysaccharide deacetylase
+CNBG_0716,FPR3,,,21602483,peptidyl-prolyl cis-trans isomerase
+CNBG_5888,FRE2,,,19542307,ferric reductase transmembrane component
+CNBG_0085,FRR1,,,10330150,fk506-binding protein 
+CNBG_4048,FUR1,,,22080454,uracil phosphoribosyltransferase
+CNBG_0378,FYV10,,,18854164,putative fyv10 protein homolog
+CNBG_0368,GAT1,,,20673806,gata type zinc finger protein
+CNBG_3885,GAT201,,,18854164,gata family transcription factor
+CNBG_3785,GCN3,,,19542307,translation initiation factor eif-2b subunit alpha
+CNBG_0230,GCN5,,,20581290,saga complex histone acetyltransferase
+CNBG_4289,GCS1,,,16741577,ceramide glucosyltransferase
+CNBG_4633,GCS2,,,22412978,ADP-ribosylation factor GTPase-activating protein
+CNBG_4396,GIB2,,,16950773,G-protein beta-like rack1 protein homolog
+CNBG_1454,GLN1,,,17114598,glutamine synthetase
+CNBG_3362,GLN3,,,18854164,gata family transcription factor
+CNBG_5737,GLO3,,,22412978,ADP-ribosylation factor GTPase-activating protein
+CNBG_4104,GLR1,,,16524907,glutathione oxidoreductase
+CNBG_1727,GMT1,,,17351078,GDP-mannose transporter
+CNBG_2183,GMT2,,,17351078,GDP-mannose transporter
+CNBG_4874,GNO1,,,14614821,alcohol dehydrogenase
+CNBG_2563,GPA1,,,8005675,guanine nucleotide-binding protein subunit alpha
+CNBG_0380,GPA2,,,17581859,heterotrimeric G-protein coupled receptor alpha subunit
+CNBG_5239,GPA3,,,17581859,heterotrimeric G-protein coupled receptor alpha subunit
+CNBG_0830,GPB1,,,10594037,G-protein beta subunit
+CNBG_1866,GPD,,,10352226,glyceraldehyde-3-phosphate dehydrogenase
+CNBG_1657,GPG2,,,16950773,heterotrimeric G-protein coupled receptor gamma subunit similar to ste18
+CNBG_1915,GPI8,,,15720553,GPI-anchor transamidase
+CNBG_5996,GPR4,,,16291861,G-protein coupled receptor
+CNBG_4202,GPX2,,,19542307,glutathione peroxidase
+CNBG_5326,GRE2,,,19542307,D-lactaldehyde dehydrogenase
+CNBG_3592,GRX3,,,19542307,thioredoxin
+CNBG_5485,GRX5,,,19542307,glutathione-dependent oxidoreductase
+CNBG_6111,GSK3,,,19749173,similar to glycogen synthase kinase
+CNBG_2744,HAD1,,,22707485,3-hydroxyacyl-CoA dehydrogenase
+CNBG_2449,HAD2,,,22707485,3-hydroxyacyl-CoA dehydrogenase
+CNBG_5884,HAP1,,,21124817,Zn2-Cys6 transcription factor
+CNBG_0775,HAP2,,,21124817,CCAAT-binding transcription factor
+CNBG_5355,HAP3,,,21124817,CCAAT -binding transcription factor
+CNBG_1664,HAP5,,,21124817,CCAAT t-binding transcription factor
+CNBG_0808,HAPX,,,21124817,CCAAT -binding transcription factor
+CNBG_2465,HCM1,,,18854164,forkhead transcription factor
+CNBG_6177,HEM12,,,21124817,uroporphyrinogen decarboxylase
+CNBG_4161,HEM13,,,21124817,coproporphyrinogen-III oxidase
+CNBG_1735,HEM15,,,20488877,ferrochelatase
+CNBG_3262,HEM3,,,21124817,porphobilinogen deaminase
+CNBG_3035,HEM4,,,21124817,uroporphyrinogen-III synthase
+CNBG_1911,HEX1,,,19734369,beta-hexosaminidase
+CNBG_2885,HIRA,,,18854164,nucleosome assembly complex protein
+CNBG_4362,HIS3,,,8045413,imidazoleglycerol-phosphate dehydratase
+CNBG_2019,HMG1,,,17645443,hydroxymethylglutaryl-CoA reductase
+CNBG_1711,HOC1,,,22500028,"alpha 1,6-mannosyltransferase"
+CNBG_0783,HOC2,,,22500028,"alpha 1,6-mannosyltransferase"
+CNBG_3912,HOG1,,,15728721,mitogen-activated protein kinase
+CNBG_4309,HOS2,,,18854164,class II histone deacetylase 
+CNBG_3390,HOS4,,,18854164,"similar to Avo2, Tor2 kinase component"
+CNBG_4393,HRD1,,,18854164,e3 ubiquitin-protein ligase
+CNBG_1187,HRK1,,,18854164,serine/threonine-protein kinase
+CNBG_1541,HRT1,,,22719877,ubiquitin ligase complex ring-box protein
+CNBG_1665,HSE102,,,18854164,class e vacuolar protein-sorting machinery protein
+CNBG_5853,HSP12,,,12455690,"heat shock protein, 12Kda"
+CNBG_5234,HST302,,,18854164,histone deacetylase
+CNBG_2682,HSV2,,,18854164,WD40 protein related to 3-phosphorylated inositide-binding protein
+CNBG_4592,HUB1,,,22719877,ubiquitin-like protein
+CNBG_4382,HXK1,,,21652778,hexokinase
+CNBG_0169,HXK2,,,17041184,hexokinase
+CNBG_2170,HXT1,,,15907385,hexose transporter
+CNBG_5726,ICL1,,,12228298,isocitrate lyase
+CNBG_0305,IDI1,,,19542307,isopentenyl-diphosphate delta-isomerase
+CNBG_5547,IDP1,,,20400467,isocitrate dehydrogenase
+CNBG_5864,IKS1,,,12455690,serine/threonine-protein kinase
+CNBG_0302,ILV2,,,15133116,acetolactate synthase
+CNBG_1468,IMD1,,,23071437,inosine-5'-monophosphate dehydrogenase
+CNBG_2609,IPC1,,,11157776,inositol-phosphoryl ceramide synthase
+CNBG_0073,IRE1,,,21852949,"serine/threonine-protein kinase, unfolded protein response"
+CNBG_5280,ISA1,,,19542307,iron-sulfur cluster assembly protein
+CNBG_0457,ITR1,,,20689743,myo-inositol transporter
+CNBG_2028,ITR2,,,20689743,myo-inositol transporter
+CNBG_4474,ITR3,,,20689743,myo-inositol transporter
+none called,ITR3A,,,20689743,myo-inositol transporter
+CNBG_6144,ITR4,,,20689743,myo-inositol transporter
+CNBG_5450,ITR5,,,20689743,myo-inositol transporter
+CNBG_5556,ITR6,,,20689743,myo-inositol transporter
+CNBG_4333,JJJ1,,,18854164,DNAj-like cochaperone
+CNBG_1663,KAP123,,,19749173,importin beta-4 subunit
+CNBG_1791,KAR3,,,20044015,kinesin microtuble motor protein
+CNBG_4313,KIN4,,,20485569,serine/threonine protein kinase
+CNBG_2156,KIP1,,,19542307,kinesin-like protein
+CNBG_0051,KRE5,,,20384682,UDP-glucose:glycoprotein glucosyltransferase
+CNBG_6049,KRE6,,,20384682,putative beta-glucan synthase
+CNBG_5900,KRE61,,,20384682,putative beta-glucan synthase
+CNBG_5898,KRE62,,,20384682,putative beta-glucan synthase
+CNBG_1729,KRE64,,,20384682,putative beta-glucan synthase
+CNBG_3038,KSP1,,,18854164,serine/threonine protein kinase
+CNBG_1550,KTR3,,,22500028,"alpha 1,2-mannosyltransferase"
+CNBG_2144,LAC1,,,8300520,laccase
+CNBG_2146,LAC2,,,15643074|15643075,laccase
+CNBG_1460,LEU2,,,17114598,3-isopropylmalate dehydrogenase
+CNBG_1451,LIV1,,,18854164,virulence related rotein of unknown function
+CNBG_3573,LIV10,,,18854164,virulence related protein of unknown function
+CNBG_4432,LIV11,,,18854164,virulence related protein of unknown function
+CNBG_4585,LIV12,,,18854164,eukaryotic translation initiation factor 3 subunit l
+CNBG_3410,LIV13,,,18854164,endoplasmic reticulum protein
+CNBG_1616,LIV15,,,18854164,translin domain protein
+CNBG_1712,LIV3,,,18854164,wor1/pac2 family transcription factor
+CNBG_5156,LIV4,,,20581290,putative myb-like mRNA polymerase I termination factor
+CNBG_4114,LIV5,,,18854164,
+CNBG_0389,LIV6,,,23300468,putative endovacuolar system protein 
+CNBG_4999,LIV7,,,18854164,Golgi factor and virulence related protein ortholog
+CNBG_3831,LIV8,,,18854164,infection related protein of unknown function
+CNBG_2435,LIV9,,,18854164,infection related ring finger protein
+CNBG_5871,LPD1alpha,,,12455690,putative dihydrolipoyl dehydrogenase
+CNBG_1837,LRG1,,,16194228,rho GTPase-activating protein
+CNBG_4542,LRO1,,,22412978,phospholipid:diacylglycerol acyltransferase
+CNBG_0754,LSB1,,,18854164,bar-SH3 domain protein
+CNBG_2041,LYS2,,,19542307,L-aminoadipate-semialdehyde dehydrogenase
+CNBG_0322,LYS9,,,15189996,saccharopine dehydrogenase
+CNBG_2740,MAN1,,,11359567,mannose-6-phosphate isomerase
+CNBG_5541,MAP1,,,19542307,methionine aminopeptidase
+CNBG_4907,MAT2,,,20485569,hmg (high mobility group) box transcription factor
+CNBG_5857,MAT3,,,12455690,mat3 pheromone repeat protein
+CNBG_1015,MBF1,,,16102007,multiprotein bridging factor
+CNBG_6103,MBS1,,,22080454,mbp1/swi4-like transcription factor
+CNBG_1138,MDR1,,,9409767,putative abc multidrug resistance transporter with similarity to Ste6
+CNBG_6001,MEP1,,,23300468,metalloproteinase
+CNBG_2830,MET3,,,19542307,sulfate adenylyltransferase
+CNBG_3052,MET6,,,15347759,methionine synthase
+CNBG_3519,MET7,,,19542307,folylpolyglutamate synthetase
+CNBG_5861,MFalpha3,,,12455690,mating-type pheromone alpha
+CNBG_1820,MFE2,,,22707485,multifunctional beta-oxidation protein
+CNBG_2657,MFE2,,,23078142,sterol-binding protein
+CNBG_3906,MGA2,,,15470254,transcription factor
+CNBG_5127,MIG1,,,21652778,zinc finger transcription factor
+CNBG_4069,MKK2,,,16194228,serine/threonine-protein kinase
+CNBG_5670,MLN1,,,18854164,bHLH family transcription factor
+CNBG_4926,MLN2,,,18854164,nuclear distribution protein NudC homolog
+CNBG_3800,MLN4,,,18854164,protein of unknown function
+CNBG_6151,MLS1,,,17041184,malate synthase
+CNBG_1661,MMS2,,,18854164,ubiquitin-conjugating enzyme
+CNBG_1750,MOB2,,,23055925,ram signaling network protein kinase activator
+CNBG_1155,MP88,,,12228274,immunoreactive mannoprotein
+CNBG_2079,MPD1,,,11021946,mannitol-1-phosphate dehydrogenase
+CNBG_2556,MPK1,,,21926330,mitogen-activated protein kinase
+CNBG_2768,MPK2,,,15075272,mitogen-activated protein (map) kinase
+CNBG_2302,MSL1,,,23042129,putative histone acetyltransferase complex subunit
+CNBG_1920,MTD1,,,19542307,methylenetetrahydrofolate dehydrogenase [NAD(+)]
+CNBG_5868,MYO2alpha,,,12455690,myosin class v heavy chain
+CNBG_0283,NAB2,,,19542307,putative nuclear polyadenylated mRNA-binding protein
+CNBG_0583,NCP1,,,17645443,electron transporter
+CNBG_1144,NDH1,,,16775005,NADH dehydrogenase
+CNBG_5532,NEP1,,,22339665,"similar
+to
+Neprilysin
+(neutral
+endopeptidase)
+"
+CNBG_3224,NHA1,,,19542307,Na+/H+ antiporter
+CNBG_5264,NHP6B02,,,18854164,nonhistone chromosomal protein
+CNBG_0067,NIC1,,,23653445,putative nickel transporter
+CNBG_5856,NOG2,,,12455690,putative nucleolar gtp-binding protein
+CNBG_5752,NRG1,,,16835458,transcription factor
+CNBG_5279,NSR1,,,20696827,putative mRNA binding protein
+CNBG_0185,NTH1,,,16988267,putative trehalase
+CNBG_5550,NUP75,,,18854164,nuclear pore complex protein
+CNBG_1188,OCH1,,,15256547,"alpha 1,6-mannosyltransferase"
+CNBG_1493,OFD1,,,19749173,putative oxidoreductase
+CNBG_2054,OPS1,,,15760278,opsin-1
+CNBG_1438,OST2,,,21602483,ER oligosaccharyl transferase complex subunit
+CNBG_5032,OTU1,,,22719877,ubiquitin-specific protease
+CNBG_2946,OVA1,,,17367210,protein of unknown function
+CNBG_5499,PAB2,,,23966870,nuclear poly (A) binding protein
+CNBG_1592,PAK1,,,12455960,ste/ste20/paka protein kinase
+CNBG_0742,PAN1,,,18854164,Lag1 family transcription factor
+CNBG_5855,PAN6,,,12455690,pantoate-beta-alanine ligase
+CNBG_1162,PBS2,,,15728721,map kinase kinase 
+CNBG_0741,PBX1,,,17337638,parallel beta-helix repeat protein
+CNBG_4310,PBX2,,,17337638,parallel beta-helix repeat protein
+CNBG_2828,PCK1,,,21652778,phosphoenolpyruvate carboxykinase
+CNBG_2221,PCL103,,,18854164,cyclin
+CNBG_4606,PDE1,,,16339715,phosphodiesterase
+CNBG_0020,PDE2,,,16339715,phosphodiesterase
+CNBG_3559,PDK1,,,22339665,serine threonine protein kinase
+CNBG_6088,PDR5,,,19542307,ATP-binding cassette transporter
+CNBG_5385,PDR5-2,,,19542307,ATP-binding cassette transporter
+CNBG_5107,PDR5-3,,,19542307,ATP-binding cassette transporter
+CNBG_5570,PDR802,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNBG_3706,PER1,,,21602483,ER protein for association of GPI-anchored proteins with lipid rafts
+CNBG_5906,PEX1,,,17041184,AAA-peroxin
+CNBG_3018,PEX5,,,17041184,peroxisomal targeting signal (PTS1) receptor 
+CNBG_2870,PEX6,,,17041184,AAA-peroxin
+CNBG_1399,PEX7,,,17041184,peroxisomal signal (PTS2) receptor
+CNBG_5370,PFT1,,,20485569,protein farnesyltransferase alpha subunit
+CNBG_3294,PGU1,,,18854164,polygalacturonase
+CNBG_3433,PHO84,,,19542307,inorganic phosphate transporter
+CNBG_2964,PHY1,TCO3,16672377,15760278,two-component-like sensor kinase/putative phytochrome
+CNBG_2080,PIK1,,,20696827,1-phosphatidylinositol 4-kinase
+CNBG_2882,PKA2,,,14871933,protein kinase A (PKA) catalytic subunit
+CNBG_3366,PKC1,,,18689526,protein kinase C
+CNBG_0507,PKP1,,,19542307,pyruvate dehydrogenase kinase
+CNBG_1346,PKR1,,,11287622,camp dependent protein kinase regulatory subunit
+CNBG_4798,PLB1,,,11123698,phospholipase B
+CNBG_3516,PLC1,,,18532984,phosphatidylinositol phospholipase C
+CNBG_3610,PLC2,,,18532984,phosphatidylinositol-specific phospholipase C
+CNBG_4337,PLR1,,,19151325,putative pyridoxal reductase or aldo-keto reductase
+CNBG_5058,PMA1,,,11118522,plasma membrane H(+)-ATPase
+CNBG_0799,PMC1,,,21655435,putative calcium-transporting ATPase
+CNBG_2499,PMM1,,,20174553,putative phosphomannomutase
+CNBG_4556,PMR1,,,21655435,putative calcium-transporting ATPase
+CNBG_5899,PMT1,,,19633715|17142566,protein-O-mannosyltransferase
+CNBG_5604,PMT2,,,19633715,dolichyl-phosphate-mannose-protein mannosyltransferase
+CNBG_0576,PMT4,,,17142566,O-mannosyltransferase
+CNBG_3793,PNG1,,,21602483,peptide N-glycanase
+CNBG_5377,PPG1,,,16194228,type 2a-like serine/threonine-protein phosphatase
+CNBG_1498,PPH3,,,16194228,serine/threonine-protein phosphatase catalytic subunit
+CNBG_1677,PRM1,,,20485569,putative plasma membrane fusion protein
+CNBG_4689,PRO2,,,19151325,gamma-glutamyl phosphate reductase
+CNBG_4780,PTP1,,,24728196,protein tyrosine phosphatase
+CNBG_4539,PTP2,,,24728196,protein tyrosine phosphatase
+CNBG_5957,PUB1,,,19542307,putative polyadenylated mRNA-binding protein
+CNBG_3464,PUF4,,,16194228,pumilio-family mRNA binding protein
+CNBG_5199,PUT1,,,23564202,proline oxidase
+CNBG_4622,PUt2,,,23564202,delta-pyrroline-5-carboxylate
+CNBG_5200,PUT5,,,23564202,proline oxidase
+CNBG_3421,PXA2,,,20696827,peroxisomal ATP-binding cassette transporter
+CNBG_3344,PYK1,,,21652778,pyruvate kinase
+CNBG_5201,QDR1,,,19542307,MFS multidrug transporter
+CNBG_3532,RAC1,,,22466042,ras-like gtp-binding protein
+CNBG_4740,RAC2,,,23748012,rho-GTPase
+CNBG_5535,RAD17,,,19151325,cell cycle checkpoint protein
+CNBG_1159,RAD23,,,18854164,putative UV excision repair protein
+CNBG_0732,RAD54,,,18854164,DNA repair and recombination protein
+CNBG_1803,RAM1,,,15184578,protein farnesyltransferase subunit beta
+CNBG_0276,RAS1,,,10792722,G-protein signaling GTPase
+CNBG_5602,RAS2,,,11782511,G-protein signaling GTPase
+CNBG_0428,RCK2,,,18854164,predicted protein kinase
+CNBG_2284,RDI1,,,18779335,rho gdp-dissociation inhibitor
+CNBG_1703,RGD1,,,18854164,rho GTPase activating protein (GAP) homolog
+CNBG_2285,RHO1,,,10455236,GTP-binding protein
+CNBG_2452,RHO10,,,23159519,rho-type GTPase
+CNBG_1958,RHO104,,,18854164,rho family GTPase
+CNBG_1829,RIB4,,,19542307,"6,7-dimethyl-8-ribityllumazine synthase"
+CNBG_4424,RIM101,,,20174553,C2H2 zinc finger transcription factor
+CNBG_2047,RIM20,,,20174553,escrt-III-associated proteolytic activator of rim101
+CNBG_0159,RINT1,,,18854164,Rad50-interacting protein 1 homolog
+CNBG_5472,RLM1,,,19542307,mads-box transcription factor
+CNBG_0914,RMD5,,,18854164,putative ubiquitin ligase
+CNBG_2918,ROM2,,,16194228,rho guanyl-nucleotide exchange factor
+CNBG_0083,ROM21,,,16194228,rho guanine nucleotide exchange factor
+CNBG_0884,RPA32,,,22916030,replication protein
+CNBG_0712,RPA70,,,22916030,replication protein
+CNBG_5851,RPB4,,,23659661,mRNA polymerase II subunit
+CNBG_1847,RPD304,,,18854164,histone deacetylase
+CNBG_4251,RPH1,,,18854164,histone demethylase
+CNBG_5762,RPL2,,,23659661,large subunit ribosomal protein
+CNBG_5879,RPL22alpha,,,12455690,large subunit ribosomal protein L22e
+CNBG_1151,RPL27,,,23659661,large subunit ribosomal protein L27e
+CNBG_0335,RPL30,,,17114598,large subunit ribosomal protein L30e
+CNBG_5859,RPL39alpha,,,12455690,large subunit ribosomal protein L39
+CNBG_0519,RPL9B,,,17114598,large subunit ribosomal protein L9
+CNBG_0342,RPN11,,,22719877,26s proteasome lid component
+CNBG_6114,RPN14,,,21602483,19s proteasome regulatory particle base assembly chaperone
+CNBG_0654,RPN5,,,21602483,26s proteasome regulatory subunit
+CNBG_5869,RPO41alpha,,,12455690,"DNA-directed mRNA polymerase, mitochondrial"
+CNBG_6025,RRP44,,,23966870,exosome complex exonuclease
+CNBG_3431,RRP6,,,23966870,exosome complex exonuclease
+CNBG_5283,RSC8,,,19542307,rsc chromatin remodeling complex subunit
+CNBG_2503,RSP5,,,19749173,e3 ubiquitin-protein ligase
+CNBG_1917,RTF1,,,18854164,mRNA polymerase-associated protein
+CNBG_3480,RUB1,,,18854164,ubiquitin-like protein
+CNBG_5877,RUM1alpha,,,12455690,phd transcription factor
+CNBG_6004,SAC6,,,22562467,fimbrin
+CNBG_6075,SAH1,,,19542307,adenosylhomocysteinase
+CNBG_1571,SAR1,,,19749173,small copII coat GTPase
+CNBG_5131,SAS3,,,18854164,histone acetyltransferase
+CNBG_3471,SAV1,,,17021252,rab family GTPase
+CNBG_5104,SBH1,,,22412978,ER-protein sec61-beta ortholog
+CNBG_5142,SCH9,,,19542307,agc family protein kinase
+CNBG_3857,SCP1,,,17319742,sterol regulatory element-binding protein cleavage-activating protein
+CNBG_2431,SEC14-1,,,21453402,phosphatidylinositol/phosphatidylcholine transfer protein
+CNBG_0516,SEC14-2,,,21453402,phosphatidylinositol/phosphatidylcholine transfer protein
+CNBG_0973,SEC23,,,19749173,putative GTPase-activating protein
+CNBG_6197,SEC24,,,19749173,copii vesicle coat protein
+CNBG_3032,SEC6,,,19210702,exocyst complex component
+CNBG_0809,SET101,,,18854164,histone-lysine N-methyltransferase
+CNBG_2397,SET202,,,18854164,histone-lysine N-methyltransferase
+CNBG_1970,SET302,,,18854164,histone deacetylase complex protein
+CNBG_4566,SEY1,,,22412978,dynamin-like GTPase
+CNBG_4804,SFB2,,,19749173,copII vesicle coat protein
+CNBG_5252,SFH5,,,21453402,phosphatidylinositol transfer protein
+CNBG_5065,SGF29,,,20581290,putative saga histone acetyltransferase complex component
+CNBG_0964,SIN1,,,22339665,target of rapamycin complex 2 subunit
+CNBG_1110,SIP401,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNBG_4487,SIP402,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNBG_1121,SIT1,,,15720553,siderophore iron transporter
+CNBG_5232,SIT2,,,19820119,siderochrome-iron transporter
+CNBG_6064,SKN1,,,20384682,putative glucosidase
+CNBG_2199,SKN7,,,16041017,response regulator and transcription factor
+CNBG_5378,SLA2,,,22562467,actin cortical patch component
+CNBG_5776,SLC1,,,22412978,1-acyl-sn-glycerol-3-phosphate acyltransferase
+CNBG_3077,SNF2,,,19542307,chromatin remodeling complex ATPase
+CNBG_1192,SNF5,,,16102007,swi/snf chromatin-remodeling complex subunit
+CNBG_0503,SNT1,,,18854164,putative set3c deacetylase complex subunit
+CNBG_0599,SOD1,,,12622821,copper/zinc superoxide dismutase
+CNBG_2661,SOD2,,,19542307,putative mitochondrial manganese superoxide dismutase
+CNBG_5549,SOG2,,,16775005,ram signaling network protein
+CNBG_5282,SOL3,,,19542307,6-phosphogluconolactonase
+CNBG_0402,SP1,CRZ1,23251520,21487010,zinc finger transcription factor
+CNBG_5874,SPO14alpha,,,12455690,phospholipase D1
+CNBG_2201,SPP101,,,18854164,putative compass/set1c complex subunit
+CNBG_1778,SPR1,,,18854164,glycosyl hydrolase
+CNBG_5713,SPT3,,,20581290,predicted saga histone acetyltransferase complex component
+CNBG_1568,SPT7,,,20581290,predicted saga histone acetyltransferase complex component
+CNBG_1965,SPT8,,,20581290,predicted saga histone acetyltransferase complex component
+CNBG_5640,SRE1,,,17462012,sterol regulatory element-binding protein
+CNBG_1275,SRX1,,,19542307,sulfiredoxin
+CNBG_5018,SSA1,,,17040492,putative ATPase and ER protein chaperone similar to Kar2
+CNBG_2258,SSD1,,,16194228,putative translational repressor
+CNBG_1536,SSK1,,,16672377,two-component system response regulator
+CNBG_4621,SSK2,,,17951522,ste/ste11/ssk protein kinase
+CNBG_1469,SSN801,,,21559476,cyclin subunit of mediator subcomplex
+CNBG_0487,SSS1,,,21602483,sec61 translocation complex protein
+CNBG_1758,STB4,,,18854164,putative transcription factor
+CNBG_5858,STE12alpha,,,12455690,ste-like transcription factor
+CNBG_5867,STE20alpha,,,12455960,ste/ste20/paka protein kinase
+CNBG_5865,STE3alpha,,,12455960,a-factor pheromone receptor
+CNBG_3612,STE50,,,20971202,mapk signaling pathway adaptor protein
+CNBG_0006,STE6,,,22466042,putative pheromone transporter
+CNBG_3269,STE7,,,12828643,map kinase kinase
+CNBG_3229,STL1,,,19542307,putative monosaccharide transporter
+CNBG_1801,STP1,,,17319742,putative site-2 protease
+CNBG_2413,SWE1,,,20696827,serine/threonine-protein kinase
+CNBG_5880,SXI1alpha,,,12464634,alpha cell-type homeodomain transcription factor
+CNBG_2980,TAF10,,,20581290,C2H2 zinc finger protein
+CNBG_5920,TAF12,,,20581290,putative TFIID and saga complex component
+CNBG_4427,TAF5,,,20581290,putative TFIID and saga complex component
+CNBG_4231,TAF6,,,20581290,putative TFIID and saga complex component
+CNBG_3170,TAF9,,,20581290,putative TFIID and saga complex component
+CNBG_2968,TAL1,,,16524907,transaldolase
+CNBG_0026,TAO3,,,16775005,ram signaling network cell polarity protein
+CNBG_3370,TCO1,,,16672377,two-component-like sensor kinase
+CNBG_4282,TCO2,,,16672377,two-component-like sensor kinase
+CNBG_2249,TCO4,,,16672377,two-component-like sensor kinase
+CNBG_0447,TCO5,,,16672377,two-component-like sensor kinase
+CNBG_0218,TCO6,,,16672377,two-component-like sensor kinase
+CNBG_5160,TCO7,,,16672377,two-component-like sensor kinase
+CNBG_4834,TEF1,,,9367655,elongation factor 1-alpha
+CNBG_2298,TIM13,,,20581290,mitochondrial import inner membrane translocase subunit
+CNBG_5750,TLK1,,,22412978,Tor-like phosphatidylinositol 3 kinase
+CNBG_2631,TOM1,,,19542307,e3 ubiquitin-protein ligase
+CNBG_2854,TOP1,,,19542307,DNA topoisomerase 1
+CNBG_1923,TOR1,,,10330150,Tor protein kinase
+CNBG_1839,TPM1,,,22562467,tropomyosin
+CNBG_5715,TPS1,,,16988267,alpha-alpha trehalose-phosphate synthase
+CNBG_0164,TPS2,,,16988267,trehalose-6-phophate phosphatase
+CNBG_1297,TRA1,,,20581290,putative saga and nua4 histone acetyltransferase complex subunit
+CNBG_2567,TRP1,,,1452032,phosphoribosylanthranilate isomerase
+CNBG_1694,TRR1,,,19542307,thioredoxin reductase
+CNBG_3456,TRX1,,,16045626,thioredoxin
+CNBG_3835,TRX2,,,16045626,thioredoxin
+CNBG_2132,TSA1,,,16524907,thiol peroxidase
+CNBG_2306,TSR2,,,19542307,pre-rRNA-processing protein
+CNBG_3361,TUB1,,,9202476,tubulin beta chain
+CNBG_4724,TUB2,,,9202476,tubulin beta chain
+CNBG_3743,TUB4,,,19542307,gamma-tubulin
+CNBG_5300,TUP1,,,19820119,general transcriptional repressor
+CNBG_5883,UAP1,,,12455690,uric acid xanthine permease
+CNBG_1651,UBA2,,,21602483,ubiquitin-activating enzyme e1-like
+CNBG_3237,UBA3,,,22719877,rub1/nedd8 activating enzyme
+CNBG_0566,UBA4,,,18854164,urm1 activating enzyme
+CNBG_0987,UBC12,,,22719877,ubiquitin-conjugating enzyme
+CNBG_0655,UBC4,,,19542307,ubiquitin conjugating enzyme
+CNBG_1779,UBC6,,,19542307,ubiquitin-conjugating enzyme
+CNBG_5354,UBC6-2,,,19542307,ubiquitin conjugating enzyme
+CNBG_1969,UBC7,,,19542307,ubiquitin-conjugating enzyme
+CNBG_1039,UBC8,,,19542307,ubiquitin conjugating enzyme
+CNBG_0225,UBI1,,,7642124,predicted ubiquitin-ribosomal 60s subunit protein L40a fusion protein
+CNBG_3023,UBI4,,,7642124,ubiquitin precursor
+CNBG_3828,UBP10,,,22719877,putative ubiquitin carboxyl-terminal hydrolase
+CNBG_5988,UBP13,,,22719877,pab-dependent poly(A)-specific ribonuclease subunit
+CNBG_1832,UBP14,,,18854164,ubiquitin carboxyl-terminal hydrolase;
+CNBG_0374,UBP16,,,18854164,ubiquitin carboxyl-terminal hydrolase
+CNBG_6153,UBP5,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CNBG_5589,UBP7,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CNBG_0569,UCH2,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CNBG_0817,UFD4,,,18854164,e3 ubiquitin-protein ligase
+CNBG_4706,UGD1,,,15590833,UDP-glucose 6-dehydrogenase
+CNBG_1232,UGE1,,,17462022,UDP-glucose epimerase
+CNBG_4552,UGT1,,,17462022,putative UDP-galactose transporter
+CNBG_4712,URA3,,,1573522,orotidine-5'-phosphate decarboxylase
+CNBG_2389,URA5,,,2201894,orotidine monophosphate pyrophosphorylase
+CNBG_4331,URE1,,,10639402,urease
+CNBG_0736,URE2,,,23653445,"protein of unknown function, smc3 ortholog"
+CNBG_0735,URE4,,,23653445,urease accessory protein
+CNBG_5207,URE6,,,23653445,urease accessory protein
+CNBG_1252,URE7,,,23653445,urease accessory protein
+CNBG_2238,URK1,,,20485569,uridine kinase
+CNBG_4601,URM1,,,22719877,ubiquitin-related modifier
+CNBG_2374,UVE1,,,24039606,UV DNA damage endonuclease
+CNBG_2278,UXS1,,,11593010,UDP-glucuronic acid decarboxylase
+CNBG_3899,VAD1,,,15765146,virulence associated ATP-dependent mRNA helicase
+CNBG_4457,VAM6,,,18854164,rab guanyl-nucleotide exchange factor
+CNBG_0527,VCX1,,,20889719,vacuolar calcium exchanger
+CNBG_0676,VPH1,,,11737651,vacuolar-ATPase subunit
+CNBG_1341,VPS1,,,19542307,dynamin GTPase
+CNBG_1407,VPS17,,,19542307,membrane-associated retromer complex subunit
+CNBG_3261,VPS23,,,23132495,predicted escrt-i complex protein
+CNBG_5690,VPS25,,,18854164,escrt-II complex subunit
+CNBG_2560,VPS4,,,19542307,AAA-ATPase
+CNBG_2757,VPS41,,,16879414,vacuolar protein sorting-associated protein
+CNBG_5181,WSP1,,,21357479,Wiskott-Aldrich syndrome protein (wasp) homolog
+CNBG_3734,XFP2,,,24659577,xylulose 5-phosphate/fructose 6-phosphate phosphoketolase
+CNBG_1747,XRN2,,,25267175,5'-3' exoribonuclease
+CNBG_3825,YAP4,,,16045626,bZip transcription factor
+CNBG_0041,YKU80,,,18854164,ATP-dependent DNA helicase
+CNBG_1919,YOP1,,,22731401,membrane trafficking and ER morphology protein
+CNBG_2112,YOR1,,,19542307,ATP-binding cassette transporter
+CNBG_2360,YOX101,,,18854164,homeobox transcriptional repressor
+CNBG_4858,YPD1,,,16672377,"histidine kinase two-component system, phosphorelay intermediate protein"
+CNBG_0979,YPK1,,,22339665,protein kinase
+CNBG_4174,YRM101,,,18854164,putative transcription factor
+CNBG_5390,YRM103,,,18854164,putative transcription factor
+CNBG_3627,YSA1,,,25361768,ADP-ribose pyrophosphatase
+CNBG_2700,ZAP103,,,18854164,putative zinc finger transcription factor
+CNBG_4460,ZAP104,ZAP1,22916306,18854164,putative zinc finger transcription factor
+CNBG_1753,ZDS3,,,21726407,zds-like protein
+CNBG_6066,ZIP1,,,22916306,zinc ion transporter
+CNBG_2209,ZIP2,,,22916306,zinc ion transporter
+CNBG_5361,ZIP3,,,22916306,zinc ion transporter
+CNBG_2239,ZNF2,,,20485569,C2-H2 zinc-finger transcription factor
+CNBG_2346,ZWF1,,,20400467,glucose-6-phosphate dehydrogenase
+CNBG_6190,,,,22500028,"putative alpha-1,2-mannosyltransferase"
+CNBG_5500,,,,22562467,f-actin-capping protein subunit alpha
+CNBG_5566,,,,22562467,f-actin-capping protein subunit beta

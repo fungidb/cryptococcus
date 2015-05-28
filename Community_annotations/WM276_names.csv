@@ -1,0 +1,645 @@
+ID,Standard name,alias,alias PMID,PMID used,Description
+CGB_I2190C,ABP1,,,22562467,actin-binding protein homolog
+CGB_J1390C,ACA1,,,15590822,adenylyl cyclase-associated protein
+CGB_D8790W,ACL1,,,23078142,ATP-citrate lyase
+CGB_G4520C,ACO1,,,16524907,aconitate hydratase
+CGB_A4770W,ACT1,,,17114598,actin
+CGB_C2200C,ADA2,,,22174677,predicted saga histone acetyltransferase complex component
+CGB_D8500C,ADA3,,,20581290,predicted saga histone acetyltransferase complex component
+CGB_C7060C,ADE12,,,19542307,adenylosuccinate synthetase
+CGB_E3300W,ADE2,,,8406836,phosphoribosylaminoimidazole carboxylase
+CGB_A8170W,AFR1,,,16428784,ATP-binding cassette transporter
+CGB_D9320W,AGO1,,,21067947,argonaute protein
+CGB_G0300C,AGS1,,,17244196,"alpha-1,3-glucan synthase"
+CGB_K4240W,ALG7,,,21602483,UDP-N-acetyl-glucosamine-1-p transferase
+CGB_N2380W,ALO1,,,19542307,"d-arabinono-1,4-lactone oxidase"
+CGB_G5440W,ALR2,,,19542307,putative metal ion transporter
+CGB_B2590C,AMT1,,,18055915,low-affinity ammonium transporter
+CGB_I2530C,AMT2,,,18055915,ammonium transporter
+CGB_B1710C,AOX1,,,14500501,altemrnative oxidase
+CGB_I1270C,APG9,,,12455690,autophagy-related protein
+CGB_F0410C,APP1,,,21971702,secreted antiphagocytic protein
+CGB_N3050C,APT1,,,19949048,aminophospholipid translocase (flippase)
+CGB_D6700W,APT2,,,19949048,aminophospholipid translocase (flippase)
+CGB_A3440W,APT3,,,19949048,aminophospholipid translocase (flippase)
+CGB_I4230C,APT4,,,19949048,aminophospholipid translocase (flippase)
+CGB_C3530C,AQY1,,,19542307,aquaporin water channel
+CGB_H4080W,ARF1,,,16775005,ADP-ribosylation factor
+CGB_G2180W,ARF2,,,19542307,ADP-ribosylation factor
+CGB_C6410C,ARG3,,,19151325,ornithine carbamoyltransferase
+CGB_A6490W,ARG8,,,19151325,acetylornithine aminotransferase
+CGB_A0090C,ATF1,,,16045626,activating transcription factor
+CGB_G0420C,ATG2602,,,18854164,UDP-glucose sterol transferase
+CGB_H2660W,ATM1,,,19542307,mitochondrial inner membrane ABC transporter
+CGB_F3520C,ATP1,,,19542307,ATP synthase subunit alpha
+CGB_E1460W,ATX1,,,16102007,putative copper ion transporter
+CGB_N1380W,BAT2,,,18854164,branched-chain-amino-acid aminotransferase
+CGB_I2500W,BCK1,,,16194228,mitogen-activated protein (map) kinase kinase kinase
+CGB_K1440W,BDF1,,,19542307,bromodomain transcription factor
+CGB_A1200C,BIM1,,,20044015,microtubule binding protein
+CGB_N1150C,BLP1,,,21402362,barwin-like protein domain
+CGB_N1160C,BLP2,,,21402362,pr4/barwin domain protein
+CGB_M3150C,BLP3,,,21402362,pr4/barwin domain protein
+CGB_C1300W,BLP4,,,21402362,pr4/barwin domain protein
+CGB_L0140W,BLP5,,,21402362,pr4/barwin domain protein
+CGB_B5350C,BLP6,,,21402362,pr4/barwin domain protein
+CGB_C6090W,BNA5,,,19151325,kynureninase
+CGB_C6080C,BNA6,,,19151325,nicotinate-nucleotide pyrophosphorylase
+CGB_I3330W,BNI1,,,22562467,formin
+CGB_E6220C,BNI4,,,18854164,putative scaffold protein
+CGB_B1260C,BRE2,,,19542307,Set1/Ash2 histone methyltransferase complex subunit
+CGB_I0600W,BSP1,,,12455690,protein of unknown function; encoded on mat locus
+CGB_I1020C,BSP2,,,12455690,armadillo/beta-catenin repeat protein; encoded on mat locus
+CGB_I1180W,BSP3,,,12455690,btp/pz domain protein
+CGB_D2610W,BWC1,CWC1,15813738,15760278,white-collar transcription factor; blue-light photoresponsive gene
+CGB_E1450W,BWC2,CWC2,15813738,15760278,"white-collar transcription factor, blue-light photoresponsive gene"
+CGB_M1590W,BZP1,,,19151325,bZip domain protein
+CGB_G1390C,CAC1,,,12455973,adenylate cyclase
+CGB_A8060C,CAC2,,,23042129,chromatin assembly complex protein
+CGB_C6340W,CAN1,,,16400172,beta-type carbonic anhydrase
+CGB_D2290W,CAN2,,,16400172,beta-type carbonic anhydrase
+CGB_K3120C,CAP10,,,10482503,capsule-associated protein
+CGB_I0630C,CAP1alpha,,,12455690,O-glucosyltransferase
+CGB_D5360W,CAP2,,,15728721,capsular related protein
+CGB_B5130C,CAP4,,,17462022,"beta-1,2-xylosyltransferase"
+CGB_D7020C,CAP5,,,15728721|17462022,"beta-1,2-xylosyltransferase"
+CGB_A8090W,CAP59,,,8007987,"alpha-1,3-mannosyltransferase"
+CGB_M0250C,CAP6,,,17462022,"alpha-1,3-mannosyltransferase"
+CGB_A6290C,CAP60,,,9573112,capsule-associated protein
+CGB_C7310W,CAP64,,,8675296,capsule-associated protein
+CGB_N2300C,CAS1,,,11703667,O-acetyltransferase
+CGB_B6250C,CAS3,,,15590825,capsule related protein
+CGB_A7610C,CAS31,,,15590825,protein involved in gxm O-acetylation
+CGB_B1360W,CAS32,,,15590825,capsule structure designer protein
+CGB_K3570C,CAS33,,,15590825,capsular associated protein
+CGB_C2480C,CAS34,,,15590825,putative capsule structure designer protein
+CGB_A8340W,CAS35,,,15590825,capsular associated protein
+CGB_E6570W,CAS4,,,17462022,putative sugar transporter
+CGB_B5570C,CAS41,,,9806801,probable sugar phosphate/phosphate translocator; capsule biosynthetic protein
+CGB_A1810C,CAS42,,,17462022,putative sugar transporter
+CGB_D1060C,CAS91,,,17462022,putative maltose o-acetyltransferase
+CGB_D0440W,CAT1,,,16963629,catalase 1 similar to spore-specific catalases
+CGB_J0620W,CAT2,,,16963629,catalase 2
+CGB_D0720W,CAT4,,,16963629,catalase 4
+CGB_G6360W,CBK1,,,16775005,serine/threonine kinase of the ram signaling pathway
+CGB_A9200W,CBP1,,,10899116,calcineurin binding protein
+CGB_N2180W,CCC2,,,16102007,Cu(+2)-transporting p-type ATPase
+CGB_D6010W,CCH1,,,16950930,Ca(2+)-permeable channel
+CGB_A6230W,CCK1,,,21926330,casein kinase i
+CGB_D7320C,CCK2,,,21926330,casein kinase i
+CGB_D5180C,CCP1,,,19542307,putative mitochondrial cytochrome c peroxidase
+CGB_G1280W,CCR4,,,17646356,ccr4-not transcriptional regulatory complex component
+CGB_F4260C,CDA1,,,17400891,chitin deactylase
+CGB_D6280W,CDA3,,,17400891,chitin deacetylase
+CGB_D7860W,CDC10,,,22466042,septin ring protein
+CGB_E4470W,CDC11,,,22466042,septin
+CGB_C3510C,CDC12,,,22466042,septin
+CGB_H4200C,CDC24,,,17233829,guanine nucleotide exchange factor (GEF)
+CGB_A4110W,CDC2801,,,18854164,cyclin-dependent kinase of PITSLRE subfamily
+CGB_F6080C,CDC3,,,22466042,septin ring protein
+CGB_H0200C,CDC42,,,20025659,rho-like GTPase
+CGB_F6460W,CDC420,,,20025659,rho-like GTPase
+CGB_C5650W,CDC43,,,24014765,geranylgeranyltransferase-I beta subunit
+CGB_A6300C,CEL1,,,9573112,putative glycosyl hydrolase
+CGB_A9130C,CFL1,,,22737071,hyphal flocculin
+CGB_M3480C,CFO1,,,19542307,ferroxidase/laccase
+CGB_C8250C,CFO2,,,19542307,ferroxidase
+CGB_M3490W,CFT1,,,18282105,major iron permease
+CGB_C8260W,CFT2,,,18282105,iron permease
+CGB_B5580W,CFT3,,,18282105,iron permease
+CGB_G4360C,CHI2,,,19734369,endochitinase
+CGB_K3410C,CHI21,,,19734369,endochitinase
+CGB_H4180C,CHI22,,,19734369,endochitinase
+CGB_E2500C,CHI4,,,19734369,endochitinase
+CGB_G0480W,CHO2,,,18854164,phosphatidylethanolamine N-methyltransferase
+CGB_G0020C,CHS1,,,16278457,putative chitin synthase
+CGB_G3300C,CHS2,,,16278457,putative chitin synthase
+CGB_L2690C,CHS3,,,16278457,putative chitin synthase
+CGB_A5540W,CHS4,,,16278457,putative chitin synthase
+CGB_F4460C,CHS5,,,16278457,putative chitin synthase
+CGB_N3200W,CHS6,,,16278457,putative chitin synthase
+CGB_E4240C,CHS7,,,16278457,putative chitin synthase
+CGB_C9650W,CHS8,,,16278457,putative chitin synthase
+CGB_K1560W,CID14,,,23966870,TRAMP complex associated poly(a) polymerase
+CGB_I0640W,CID1alpha,,,12455690,cid1-family polyA polymerase
+CGB_C2470C,CIG1,,,15720553,cytokine inducing-glycoprotein
+CGB_G1440C,CIN1,,,20345666,"intersectin, C-terminal rhoGEF"
+CGB_I4080C,CIR1,,,17121456,iron-responsive gata-type transcription factor
+CGB_B0530W,CIT1,,,17114598,citrate synthase
+CGB_G6520C,CKB1,,,20696827,casein kinase II beta chain
+CGB_K2110W,CLC-A,,,14622414,putative voltage-gated chloride channel
+CGB_B6510C,CLP1,,,17993575,clampless protein essential for dikaryotic filament formation
+CGB_G0660W,CMT1,,,14504286,"alpha-1,3-mannosyltransferase"
+CGB_I3140C,CNA1,,,9184205,calcineurin a catalytic subunit
+CGB_J2300W,CNB1,,,11251806,"calcineurin b, regulatory subunit"
+CGB_C2610W,COQ2,,,19542307,4-hydroxybenzoate polyprenyl transferase
+CGB_B6410C,CPA1,,,11415984,cyclophilin A
+CGB_B6470W,CPA2,,,11415984,cyclophilin A
+CGB_E0290W,CPK1,,,12828643,mitogen activated protein kinase
+CGB_C6260W,CPL1,,,18854164,putative secreted protein
+CGB_A1720W,CPR2,,,19322200,nonmating-type specific pheromone G-protein coupled receptor
+CGB_H3310W,CPS1,,,16790766,polysaccharide synthase
+CGB_C9010W,CQS1,,,15686566,quorum sensing-like molecule
+CGB_B1370W,CRG1,,,15302835,regulator of G-protein signaling
+CGB_D7840W,CRG2,,,18658258,regulator of G protein signaling
+CGB_C3230C,CRG3,,,18658258,regulator of G protein signaling
+CGB_M3020W,CRK1,,,21111055,protein kinase
+CGB_I4410C,CRN1,,,22562467,"coronin, putative cortical actin cytoskeletal component"
+CGB_C3130C,CSN1201,,,18854164,cop9 signalosome subunit 12
+CGB_G0590W,CSN4,,,18854164,similar to cop9 signalosome subunit 4
+CGB_H5080W,CSN7,,,18854164,similar to cop9 signalosome subunit 7
+CGB_F2080C,CSR1,,,16278457,putative chitin synthase regulator
+CGB_E3460C,CSR2,,,16278457,putative chitin synthase regulator
+CGB_B8200C,CSR3,,,16278457,putative chitin synthase regulator
+CGB_D8590W,CTF4,,,19542307,chromosome transmission fidelity protein
+CGB_D3310C,CTR4,,,17290306,copper uptake transporter
+CGB_G4470W,CTS1,,,14555485,calcineurin temperature suppressor
+CGB_G3500C,CUF1,,,15334556,copper-sensing transcription factor
+CGB_D2310W,CXT1,,,17430900,"beta-1,2-xylosyltransferase"
+CGB_F2480C,DAM1,,,19749173,pre-mRNA-splicing factor
+CGB_N2190C,DAP2,,,21602483,putative dipeptidyl aminopeptidase
+CGB_I1610C,DCN1,,,22719877,scaffold-type e3 ligase
+CGB_D7870C,DHA1,,,11035725,delayed-type hypersensitivity antigen
+CGB_A5600C,DIP5,,,20485569,amino acid transporter
+CGB_A8460W,DOA4,,,18854164,ubiquitin carboxyl-terminal hydrolase
+CGB_A8510W,DPH1,,,19151325,diphthamide biosynthesis protein
+CGB_J2070C,DUR3,,,19542307,putative urea transporter
+CGB_C7080W,EBG1,,,20485569,"endo-1,3(4)-beta-glucanase"
+CGB_L3020C,ECA1,,,17502401,sarcoplasmic/endoplasmic reticulum Ca2+-ATPase
+CGB_J2360W,ECM2201,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CGB_D4850W,EF3,,,11244063,elongation factor 3
+CGB_A6500C,EGCrP1,,,22072709,fungus-specific glucosylceramide
+CGB_K3300C,ELP3,,,19542307,pol II transcription elongation factor
+CGB_A5410C,ENA1,,,19542307,p-type ATPase sodium pump
+CGB_I0350C,ERG1,,,19542307,squalene monooxygenase
+CGB_C7600W,ERG10,,,17645443,acetyl-CoA C-acetyltransferase
+CGB_B0330W,ERG11,,,17645443,lanosterol 14-alpha-demethylase
+CGB_G3140C,ERG13,,,17645443,hydroxymethylglutaryl-CoA synthase
+CGB_C7400W,ERG130,,,17645443,hydroxymethylglutaryl-CoA synthase
+CGB_A9650C,ERG2,,,17645443,C-8 sterol isomerase
+CGB_E6090C,ERG20,,,19542307,farnesyl pyrophosphate synthetase
+CGB_B1300C,ERG24,,,17645443,C-14 sterol reductase
+CGB_C3480W,ERG25,,,17645443,C-4 methyl sterol oxidase
+CGB_D9350C,ERG26,,,19542307,C-3 sterol dehydrogenase
+CGB_D5570C,ERG27,,,19542307,3-keto sterol reductase
+CGB_C8750W,ERG28,,,19542307,putative ER membrane protein
+CGB_A5290W,ERG3,,,17645443,C-5 sterol desaturase
+CGB_C6580C,ERG4,,,17645443,C-24(28) sterol reductase
+CGB_F1500C,ERG5,,,17645443,C-22 sterol desaturase
+CGB_A3260C,ERG6,,,17645443,sterol 24-C-methyltransferase
+CGB_D5080W,ERG7,,,17645443,lanosterol synthase
+CGB_M0070W,ERG8,,,19542307,phosphomevalonate kinase
+CGB_C5090C,ESS1,,,15870468,peptidyl-prolyl cis-trans isomerase
+CGB_I1080C,ETF1alpha,,,12455690,electron transfer flavoprotein alpha subunit
+CGB_E4160W,EXG104,,,18854164,"glucan 1,3-beta-glucosidase"
+CGB_I0500W,FAO1,,,12455690,putative fatty alcohol oxidase in the mating-type locus
+CGB_E5660W,FAS1,,,17698629,fatty acid synthase beta subunit
+CGB_E5650C,FAS2,,,17698629,fatty acid synthase complex protein
+CGB_I4220C,FBP1,,,21478432,f-box protein of scf ubiquitin-ligase complex
+CGB_A6420C,FCY1,,,22080454,cytosine deaminase
+CGB_C2750W,FCY2,,,22080454,cytosine permease
+CGB_D0450C,FCY3,,,22080454,putative cytosine-purine permease
+CGB_H3720W,FCY4,,,22080454,cytosine permease
+CGB_C0030C,FHB1,,,14614821,flavohemoglobin
+CGB_N3410W,FKS1,,,9882657,"1,3-beta-glucan synthase component"
+CGB_A3010W,FNX1,,,23028773,multidrug resistance transporter
+CGB_N0240C,FPD1,,,17400891,polysaccharide deacetylase
+CGB_D5280W,FPR3,,,21602483,peptidyl-prolyl cis-trans isomerase
+CGB_I0430C,FRE2,,,19542307,ferric reductase transmembrane component
+CGB_B5700W,FRR1,,,10330150,fk506-binding protein 
+CGB_E2660C,FUR1,,,22080454,uracil phosphoribosyltransferase
+CGB_B2090C,FYV10,,,18854164,putative fyv10 protein homolog
+CGB_B2220C,GAT1,,,20673806,gata type zinc finger protein
+CGB_C1190C,GAT201,,,18854164,gata family transcription factor
+CGB_B9340C,GAT204,,,17661046,"gata transcription factor, capsule-independent antiphagocytic protein"
+CGB_C2540W,GCN3,,,19542307,translation initiation factor eif-2b subunit alpha
+CGB_B3750W,GCN5,,,20581290,saga complex histone acetyltransferase
+CGB_L2710C,GCS1,,,16741577,ceramide glucosyltransferase
+CGB_D1320W,GCS2,,,22412978,ADP-ribosylation factor GTPase-activating protein
+CGB_L1320C,GIB2,,,16950773,G-protein beta-like rack1 protein homolog
+CGB_A4510W,GLN1,,,17114598,glutamine synthetase
+CGB_C5110W,GLN3,,,18854164,gata family transcription factor
+CGB_I4510C,GLO3,,,22412978,ADP-ribosylation factor GTPase-activating protein
+CGB_E2080W,GLR1,,,16524907,glutathione oxidoreductase
+CGB_F4450C,GMT1,,,17351078,GDP-mannose transporter
+CGB_G4510C,GMT2,,,17351078,GDP-mannose transporter
+CGB_M2320C,GNO1,,,14614821,alcohol dehydrogenase
+CGB_H1120W,GPA1,,,8005675,guanine nucleotide-binding protein subunit alpha
+CGB_B2070W,GPA2,,,17581859,heterotrimeric G-protein coupled receptor alpha subunit
+CGB_E6030C,GPA3,,,17581859,heterotrimeric G-protein coupled receptor alpha subunit
+CGB_D6540W,GPB1,,,10594037,G-protein beta subunit
+CGB_F2310W,GPD,,,10352226,glyceraldehyde-3-phosphate dehydrogenase
+CGB_F5455C,GPG2,,,16950773,heterotrimeric G-protein coupled receptor gamma subunit similar to ste18
+CGB_F1560C,GPI8,,,15720553,GPI-anchor transamidase
+CGB_I2250W,GPR4,,,16291861,G-protein coupled receptor
+CGB_E0540C,GPX2,,,19542307,glutathione peroxidase
+CGB_E4600W,GRE2,,,19542307,D-lactaldehyde dehydrogenase
+CGB_C8160W,GRX3,,,19542307,thioredoxin
+CGB_A1280C,GRX5,,,19542307,glutathione-dependent oxidoreductase
+CGB_B9030C,GSK3,,,19749173,similar to glycogen synthase kinase
+CGB_H3430C,HAD1,,,22707485,3-hydroxyacyl-CoA dehydrogenase
+CGB_G0430C,HAD2,,,22707485,3-hydroxyacyl-CoA dehydrogenase
+CGB_I0470W,HAP1,,,21124817,Zn2-Cys6 transcription factor
+CGB_D5850W,HAP2,,,21124817,CCAAT-binding transcription factor
+CGB_E4260C,HAP3,,,21124817,CCAAT -binding transcription factor
+CGB_F5390C,HAP5,,,21124817,CCAAT t-binding transcription factor
+CGB_D6300C,HAPX,,,21124817,CCAAT -binding transcription factor
+CGB_G0260W,HCM1,,,18854164,forkhead transcription factor
+CGB_B9680W,HEM12,,,21124817,uroporphyrinogen decarboxylase
+CGB_E1210C,HEM13,,,21124817,coproporphyrinogen-III oxidase
+CGB_F4370W,HEM15,,,20488877,ferrochelatase
+CGB_C3350W,HEM3,,,21124817,porphobilinogen deaminase
+CGB_K1330C,HEM4,,,21124817,uroporphyrinogen-III synthase
+CGB_F1600C,HEX1,,,19734369,beta-hexosaminidase
+CGB_H5300C,HIRA,,,18854164,nucleosome assembly complex protein
+CGB_L1640W,HIS3,,,8045413,imidazoleglycerol-phosphate dehydratase
+CGB_F0040W,HMG1,,,17645443,hydroxymethylglutaryl-CoA reductase
+CGB_F4610W,HOC1,,,22500028,"alpha 1,6-mannosyltransferase"
+CGB_D6060C,HOC2,,,22500028,"alpha 1,6-mannosyltransferase"
+CGB_C0630C,HOG1,,,15728721,mitogen-activated protein kinase
+CGB_L2500C,HOS2,,,18854164,class II histone deacetylase 
+CGB_C5390C,HOS4,,,18854164,"similar to Avo2, Tor2 kinase component"
+CGB_L1340W,HRD1,,,18854164,e3 ubiquitin-protein ligase
+CGB_A8330W,HRK1,,,18854164,serine/threonine-protein kinase
+CGB_A3220W,HRT1,,,22719877,ubiquitin ligase complex ring-box protein
+CGB_F5380W,HSE102,,,18854164,class e vacuolar protein-sorting machinery protein
+CGB_I1250C,HSP12,,,12455690,"heat shock protein, 12Kda"
+CGB_E6080W,HST302,,,18854164,histone deacetylase
+CGB_H2550W,HSV2,,,18854164,WD40 protein related to 3-phosphorylated inositide-binding protein
+CGB_D1780C,HUB1,,,22719877,ubiquitin-like protein
+CGB_L1450C,HXK1,,,21652778,hexokinase
+CGB_B4490C,HXK2,,,17041184,hexokinase
+CGB_G4640C,HXT1,,,15907385,hexose transporter
+CGB_I4430C,ICL1,,,12228298,isocitrate lyase
+CGB_B2860C,IDI1,,,19542307,isopentenyl-diphosphate delta-isomerase
+CGB_A2040C,IDP1,,,20400467,isocitrate dehydrogenase
+CGB_I1100W,IKS1,,,12455690,serine/threonine-protein kinase
+CGB_B2830W,ILV2,,,15133116,acetolactate synthase
+CGB_A4350C,IMD1,,,23071437,inosine-5'-monophosphate dehydrogenase
+CGB_H1570W,IPC1,,,11157776,inositol-phosphoryl ceramide synthase
+CGB_B5820C,IRE1,,,21852949,"serine/threonine-protein kinase, unfolded protein response"
+CGB_E5330W,ISA1,,,19542307,iron-sulfur cluster assembly protein
+CGB_B1090C,ITR1,,,20689743,myo-inositol transporter
+CGB_J2530W,ITR2,,,20689743,myo-inositol transporter
+CGB_G2420C,ITR2A,,,20689743,myo-inositol transporter
+CGB_L0190C,ITR3,,,20689743,myo-inositol transporter
+none called,ITR3A,,,20689743,myo-inositol transporter
+CGB_L3710W,ITR4,,,20689743,myo-inositol transporter
+CGB_A0710W,ITR5,,,20689743,myo-inositol transporter
+CGB_A2140W,ITR6,,,20689743,myo-inositol transporter
+CGB_L2260W,JJJ1,,,18854164,DNAj-like cochaperone
+CGB_F5400C,KAP123,,,19749173,importin beta-4 subunit
+CGB_F3540C,KAR3,,,20044015,kinesin microtuble motor protein
+CGB_A4010W,KIC1,,,16775005,ste/ste20/ysk protein kinase
+CGB_K1030C,KIN1,,,18854164,serine/threonine protein kinase
+CGB_L2450C,KIN4,,,20485569,serine/threonine protein kinase
+CGB_G5020W,KIP1,,,19542307,kinesin-like protein
+CGB_B6210C,KRE5,,,20384682,UDP-glucose:glycoprotein glucosyltransferase
+CGB_J2060W,KRE6,,,20384682,putative beta-glucan synthase
+CGB_I0300W,KRE61,,,20384682,putative beta-glucan synthase
+CGB_I0330W,KRE62,,,20384682,putative beta-glucan synthase
+CGB_F4430W,KRE64,,,20384682,putative beta-glucan synthase
+CGB_K1360W,KSP1,,,18854164,serine/threonine protein kinase
+CGB_A3140W,KTR3,,,22500028,"alpha 1,2-mannosyltransferase"
+CGB_A4450W,LEU2,,,17114598,3-isopropylmalate dehydrogenase
+CGB_A4540C,LIV1,,,18854164,virulence related protein of unknown function
+CGB_C7720W,LIV10,,,18854164,virulence related protein of unknown function
+CGB_L0590C,LIV11,,,18854164,virulence related protein of unknown function
+CGB_D1850C,LIV12,,,18854164,eukaryotic translation initiation factor 3 subunit l
+CGB_C5620C,LIV13,,,18854164,endoplasmic reticulum protein
+CGB_F6190W,LIV15,,,18854164,translin domain protein
+CGB_F4600C,LIV3,,,18854164,wor1/pac2 family transcription factor
+CGB_N0160C,LIV4,,,20581290,putative myb-like mRNA polymerase I termination factor
+CGB_E1680C,LIV5,,,18854164,protein of unknown function
+CGB_B1780C,LIV6,,,23300468,putative endovacuolar system protein 
+CGB_N2610C,LIV7,,,18854164,Golgi factor and virulence related protein
+CGB_C2020W,LIV8,,,18854164,infection related protein of unknown function
+CGB_G0570C,LIV9,,,18854164,infection related ring finger protein
+CGB_I0650W,LPD1alpha,,,12455690,putative dihydrolipoyl dehydrogenase
+CGB_F3080W,LRG1,,,16194228,rho GTPase-activating protein
+CGB_D2350W,LRO1,,,22412978,phospholipid:diacylglycerol acyltransferase
+CGB_D5640C,LSB1,,,18854164,bar-SH3 domain protein
+CGB_G6500C,LYS2,,,19542307,L-aminoadipate-semialdehyde dehydrogenase
+CGB_B3130C,LYS9,,,15189996,saccharopine dehydrogenase
+CGB_H3390C,MAN1,,,11359567,mannose-6-phosphate isomerase
+CGB_A1840C,MAP1,,,19542307,methionine aminopeptidase
+CGB_M3130W,MAT2,,,20485569,hmg (high mobility group) box transcription factor
+CGB_I1210W,MAT3,,,12455690,mat3 pheromone repeat protein
+CGB_D9030W,MBF1,,,16102007,multiprotein bridging factor
+CGB_B8150W,MBS1,,,22080454,mbp1/swi4-like transcription factor
+CGB_A9140C,MDR1,,,9409767,putative abc multidrug resistance transporter with similarity to Ste6
+CGB_I2300C,MEP1,,,23300468,metalloproteinase
+CGB_H4470C,MET3,,,19542307,sulfate adenylyltransferase
+CGB_K1510C,MET6,,,15347759,methionine synthase
+CGB_C7160W,MET7,,,19542307,folylpolyglutamate synthetase
+CGB_I1150C,MFalpha3,,,12455690,mating-type pheromone alpha
+CGB_F3260W,MFE2,,,22707485,multifunctional beta-oxidation protein
+CGB_H2270C,MFE2,,,23078142,sterol-binding protein
+CGB_C0690W,MGA2,,,15470254,transcription factor
+CGB_N0460W,MIG1,,,21652778,zinc finger transcription factor
+CGB_E2440W,MKK2,,,16194228,serine/threonine-protein kinase
+CGB_I3530W,MLN1,,,18854164,bHLH family transcription factor
+CGB_M3320W,MLN2,,,18854164,nuclear distribution protein NudC homolog
+CGB_C2380C,MLN4,,,18854164,protein of unknown function
+CGB_L3620W,MLS1,,,17041184,malate synthase
+CGB_F5420C,MMS2,,,18854164,ubiquitin-conjugating enzyme
+CGB_B9530C,MNN2,,,22500028,"putative alpha-1,2-mannosyltransferase"
+CGB_F4210W,MOB2,,,23055925,ram signaling network protein kinase activator
+CGB_A8640W,MP88,,,12228274,immunoreactive mannoprotein
+CGB_D6190C,MP98,CDA2,17400891,11504924,chitin-deacetylase
+CGB_G6110W,MPD1,,,11021946,mannitol-1-phosphate dehydrogenase
+CGB_H1030C,MPK1,,,21926330,mitogen-activated protein kinase
+CGB_H3670C,MPK2,,,15075272,mitogen-activated protein (map) kinase
+CGB_G2630C,MSL1,,,23042129,putative histone acetyltransferase complex subunit
+CGB_F1510W,MTD1,,,19542307,methylenetetrahydrofolate dehydrogenase [NAD(+)]
+CGB_I1050W,MYO2alpha,,,12455690,myosin class v heavy chain
+CGB_B3200C,NAB2,,,19542307,putative nuclear polyadenylated mRNA-binding protein
+CGB_D3540C,NCP1,,,17645443,electron transporter
+CGB_A9050C,NDH1,,,16775005,NADH dehydrogenase
+CGB_A1750W,NEP1,,,22339665,"similar
+to
+Neprilysin
+(neutral
+endopeptidase)
+"
+CGB_C2720C,NHA1,,,19542307,Na+/H+ antiporter
+CGB_E5490W,NHP6B02,,,18854164,nonhistone chromosomal protein
+CGB_B6050W,NIC1,,,23653445,putative nickel transporter
+CGB_I1220W,NOG2,,,12455690,putative nucleolar gtp-binding protein
+CGB_J1350C,NRG1,,,16835458,transcription factor
+CGB_E5340C,NSR1,,,20696827,putative mRNA binding protein
+CGB_B4350W,NTH1,,,16988267,putative trehalase
+CGB_A2070C,NUP75,,,18854164,nuclear pore complex protein
+CGB_A8320C,OCH1,,,15256547,"alpha 1,6-mannosyltransferase"
+CGB_A4090C,OFD1,,,19749173,putative oxidoreductase
+CGB_G6370W,OPS1,,,15760278,opsin-1
+CGB_A4670C,OST2,,,21602483,ER oligosaccharyl transferase complex subunit
+CGB_N2290W,OTU1,,,22719877,ubiquitin-specific protease
+CGB_K0170C,OVA1,,,17367210,protein of unknown function
+CGB_A1420W,PAB2,,,23966870,nuclear poly (A) binding protein
+CGB_F6480W,PAK1,,,12455960,ste/ste20/paka protein kinase
+CGB_D5530C,PAN1,,,18854164,Lag1 family transcription factor
+CGB_I1230W,PAN6,,,12455690,pantoate-beta-alanine ligase
+CGB_A8570W,PBS2,,,15728721,map kinase kinase 
+CGB_D5520W,PBX1,,,17337638,parallel beta-helix repeat protein
+CGB_L2490W,PBX2,,,17337638,parallel beta-helix repeat protein
+CGB_H4450C,PCK1,,,21652778,phosphoenolpyruvate carboxykinase
+CGB_G4100W,PCL103,,,18854164,cyclin
+CGB_D1640C,PDE1,,,16339715,phosphodiesterase
+CGB_B6520W,PDE2,,,16339715,phosphodiesterase
+CGB_C7570W,PDK1,,,22339665,serine threonine protein kinase
+CGB_J2460C,PDR5,,,19542307,ATP-binding cassette transporter
+CGB_A0010C,PDR5-2,,,19542307,ATP-binding cassette transporter
+CGB_N1170W,PDR5-3,,,19542307,ATP-binding cassette transporter
+CGB_A2290C,PDR802,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CGB_C9590W,PER1,,,21602483,ER protein for association of GPI-anchored proteins with lipid rafts
+CGB_I0240W,PEX1,,,17041184,AAA-peroxin
+CGB_K1160W,PEX5,,,17041184,peroxisomal targeting signal (PTS1) receptor 
+CGB_H5110W,PEX6,,,17041184,AAA-peroxin
+CGB_A5260W,PEX7,,,17041184,peroxisomal signal (PTS2) receptor
+CGB_E4110W,PFT1,,,20485569,protein farnesyltransferase alpha subunit
+CGB_C4020C,PGU1,,,18854164,polygalacturonase
+CGB_C6070W,PHO84,,,19542307,inorganic phosphate transporter
+CGB_K0360W,PHY1,TCO3,16672377,15760278,two-component-like sensor kinase/putative phytochrome
+CGB_G6100W,PIK1,,,20696827,1-phosphatidylinositol 4-kinase
+CGB_H5240W,PKA2,,,14871933,protein kinase A (PKA) catalytic subunit
+CGB_C5150C,PKC1,,,18689526,protein kinase C
+CGB_B0390C,PKP1,,,19542307,pyruvate dehydrogenase kinase
+CGB_A6080W,PKR1,,,11287622,camp dependent protein kinase regulatory subunit
+CGB_M1140W,PLB1,,,11123698,phospholipase B
+CGB_C7130W,PLC1,,,18532984,phosphatidylinositol phospholipase C
+CGB_C8350C,PLC2,,,18532984,phosphatidylinositol-specific phospholipase C
+CGB_L2220W,PLR1,,,19151325,putative pyridoxal reductase or aldo-keto reductase
+CGB_N2030C,PMA1,,,11118522,plasma membrane H(+)-ATPase
+CGB_D6210C,PMC1,,,21655435,putative calcium-transporting ATPase
+CGB_H0230C,PMM1,,,20174553,putative phosphomannomutase
+CGB_D2210C,PMR1,,,21655435,putative calcium-transporting ATPase
+CGB_I0310C,PMT1,,,19633715|17142566,protein-O-mannosyltransferase
+CGB_I2570W,PMT2,,,19633715,dolichyl-phosphate-mannose-protein mannosyltransferase
+CGB_D3470W,PMT4,,,17142566,O-mannosyltransferase
+CGB_C2460C,PNG1,,,21602483,peptide N-glycanase
+CGB_E4040W,PPG1,,,16194228,type 2a-like serine/threonine-protein phosphatase
+CGB_A4040C,PPH3,,,16194228,serine/threonine-protein phosphatase catalytic subunit
+CGB_F5250W,PRM1,,,20485569,putative plasma membrane fusion protein
+CGB_D0510C,PRO2,,,19151325,gamma-glutamyl phosphate reductase
+CGB_M0530C,PTP1,,,24728196,protein tyrosine phosphatase
+CGB_D2380C,PTP2,,,24728196,protein tyrosine phosphatase
+CGB_I1590W,PUB1,,,19542307,putative polyadenylated mRNA-binding protein
+CGB_C6390C,PUF4,,,16194228,pumilio-family mRNA binding protein
+CGB_E6420C,PUT1,,,23564202,proline oxidase
+CGB_D1450W,PUt2,,,23564202,delta-pyrroline-5-carboxylate
+CGB_E6430C,PUT5,,,23564202,proline oxidase
+CGB_C5730C,PXA2,,,20696827,peroxisomal ATP-binding cassette transporter
+CGB_C4530W,PYK1,,,21652778,pyruvate kinase
+CGB_E6410W,QDR1,,,19542307,MFS multidrug transporter
+CGB_C7290W,RAC1,,,22466042,ras-like gtp-binding protein
+CGB_M0040W,RAC2,,,23748012,rho-GTPase
+CGB_A1780W,RAD17,,,19151325,cell cycle checkpoint protein
+CGB_A8600W,RAD23,,,18854164,putative UV excision repair protein
+CGB_D5430C,RAD54,,,18854164,DNA repair and recombination protein
+CGB_F3420C,RAM1,,,15184578,protein farnesyltransferase subunit beta
+CGB_B3270C,RAS1,,,10792722,G-protein signaling GTPase
+CGB_I2550C,RAS2,,,11782511,G-protein signaling GTPase
+CGB_B1400W,RCK2,,,18854164,predicted protein kinase
+CGB_G3190W,RDI1,,,18779335,rho gdp-dissociation inhibitor
+CGB_G5150C,RDP1,,,21067947,putative mRNA-dependent RNA polymerase
+CGB_F4690W,RGD1,,,18854164,rho GTPase activating protein (GAP) homolog
+CGB_G3180C,RHO1,,,10455236,GTP-binding protein
+CGB_G0400W,RHO10,,,23159519,rho-type GTPase
+CGB_F1100W,RHO104,,,18854164,rho family GTPase
+CGB_F3160C,RIB4,,,19542307,"6,7-dimethyl-8-ribityllumazine synthase"
+CGB_L0670C,RIM101,,,20174553,C2H2 zinc finger transcription factor
+CGB_G6440W,RIM20,,,20174553,escrt-III-associated proteolytic activator of rim101
+CGB_B4580C,RINT1,,,18854164,Rad50-interacting protein 1 homolog
+CGB_A1150W,RLM1,,,19542307,mads-box transcription factor
+CGB_D7670W,RMD5,,,18854164,putative ubiquitin ligase
+CGB_H5630C,ROM2,,,16194228,rho guanyl-nucleotide exchange factor
+CGB_M1370C,ROM20,,,16194228,rho guanine nucleotide exchange factor
+CGB_B5720C,ROM21,,,16194228,rho guanine nucleotide exchange factor
+CGB_D7370C,RPA32,,,22916030,replication protein
+CGB_D5240W,RPA70,,,22916030,replication protein
+CGB_I1280W,RPB4,,,23659661,mRNA polymerase II subunit
+CGB_F2490W,RPD304,,,18854164,histone deacetylase
+CGB_L3310C,RPH1,,,18854164,histone demethylase
+CGB_J1250C,RPL2,,,23659661,large subunit ribosomal protein
+CGB_I0570W,RPL22alpha,,,12455690,large subunit ribosomal protein L22e
+CGB_A8680W,RPL27,,,23659661,large subunit ribosomal protein L27e
+CGB_B2560C,RPL30,,,17114598,large subunit ribosomal protein L30e
+CGB_I1190C,RPL39alpha,,,12455690,large subunit ribosomal protein L39
+CGB_B0250W,RPL9B,,,17114598,large subunit ribosomal protein L9
+CGB_B2480C,RPN11,,,22719877,26s proteasome lid component
+CGB_B9060W,RPN14,,,21602483,19s proteasome regulatory particle base assembly chaperone
+CGB_D4530C,RPN5,,,21602483,26s proteasome regulatory subunit
+CGB_I1030W,RPO41alpha,,,12455690,"DNA-directed mRNA polymerase, mitochondrial"
+CGB_J1480W,RRP44,,,23966870,exosome complex exonuclease
+CGB_C6050C,RRP6,,,23966870,exosome complex exonuclease
+CGB_E5300C,RSC8,,,19542307,rsc chromatin remodeling complex subunit
+CGB_H0270C,RSP5,,,19749173,e3 ubiquitin-protein ligase
+CGB_F1540W,RTF1,,,18854164,mRNA polymerase-associated protein
+CGB_C6550C,RUB1,,,18854164,ubiquitin-like protein
+CGB_I0590W,RUM1alpha,,,12455690,phd transcription factor
+CGB_I2330C,SAC6,,,22562467,fimbrin
+CGB_J2320C,SAH1,,,19542307,adenosylhomocysteinase
+CGB_A2710W,SAR1,,,19749173,small copII coat GTPase
+CGB_N0420W,SAS3,,,18854164,histone acetyltransferase
+CGB_C6450W,SAV1,,,17021252,rab family GTPase
+CGB_N1200W,SBH1,,,22412978,ER-protein sec61-beta ortholog
+CGB_N0290C,SCH9,,,19542307,agc family protein kinase
+CGB_C1470W,SCP1,,,17319742,sterol regulatory element-binding protein cleavage-activating protein
+CGB_G0610W,SEC14-1,,,21453402,phosphatidylinositol/phosphatidylcholine transfer protein
+CGB_B0281C,SEC14-2,,,21453402,phosphatidylinositol/phosphatidylcholine transfer protein
+CGB_D8400W,SEC23,,,19749173,putative GTPase-activating protein
+CGB_B9450W,SEC24,,,19749173,copii vesicle coat protein
+CGB_K1300C,SEC6,,,19210702,exocyst complex component
+CGB_D6310C,SET101,,,18854164,histone-lysine N-methyltransferase
+CGB_G1260C,SET202,,,18854164,histone-lysine N-methyltransferase
+CGB_F0540W,SET302,,,18854164,histone deacetylase complex protein
+CGB_D2110W,SEY1,,,22412978,dynamin-like GTPase
+CGB_M1210C,SFB2,,,19749173,copII vesicle coat protein
+CGB_E5610C,SFH5,,,21453402,phosphatidylinositol transfer protein
+CGB_N1590C,SGF29,,,20581290,putative saga histone acetyltransferase complex component
+CGB_D8310W,SIN1,,,22339665,target of rapamycin complex 2 subunit
+CGB_A9440C,SIP401,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CGB_L0030C,SIP402,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CGB_A9320W,SIT1,,,15720553,siderophore iron transporter
+CGB_E6100C,SIT2,,,19820119,siderochrome-iron transporter
+CGB_J2210C,SKN1,,,20384682,putative glucosidase
+CGB_G4330C,SKN7,,,16041017,response regulator and transcription factor
+CGB_E4030C,SLA2,,,22562467,actin cortical patch component
+CGB_J1100C,SLC1,,,22412978,1-acyl-sn-glycerol-3-phosphate acyltransferase
+CGB_K1770C,SNF2,,,19542307,chromatin remodeling complex ATPase
+CGB_A8280C,SNF5,,,16102007,swi/snf chromatin-remodeling complex subunit
+CGB_B0430C,SNT1,,,18854164,putative set3c deacetylase complex subunit
+CGB_D3700C,SOD1,,,12622821,copper/zinc superoxide dismutase
+CGB_H2330C,SOD2,,,19542307,putative mitochondrial manganese superoxide dismutase
+CGB_A2060W,SOG2,,,16775005,ram signaling network protein
+CGB_E5310W,SOL3,,,19542307,6-phosphogluconolactonase
+CGB_B1670C,SP1,CRZ1,23251520,21487010,zinc finger transcription factor
+CGB_I0620C,SPO14alpha,,,12455690,phospholipase D1
+CGB_G4310W,SPP101,,,18854164,putative compass/set1c complex subunit
+CGB_F3670W,SPR1,,,18854164,glycosyl hydrolase
+CGB_I4300C,SPT3,,,20581290,predicted saga histone acetyltransferase complex component
+CGB_A2740W,SPT7,,,20581290,predicted saga histone acetyltransferase complex component
+CGB_F1010W,SPT8,,,20581290,predicted saga histone acetyltransferase complex component
+CGB_I3220C,SRE1,,,17462012,sterol regulatory element-binding protein
+CGB_A7130W,SRX1,,,19542307,sulfiredoxin
+CGB_N2420C,SSA1,,,17040492,putative ATPase and ER protein chaperone similar to Kar2
+CGB_G3450C,SSD1,,,16194228,putative translational repressor
+CGB_A3270W,SSK1,,,16672377,two-component system response regulator
+CGB_D1460C,SSK2,,,17951522,ste/ste11/ssk protein kinase
+CGB_A4340W,SSN801,,,21559476,cyclin subunit of mediator subcomplex
+CGB_B0610W,SSS1,,,21602483,sec61 translocation complex protein
+CGB_F4130C,STB4,,,18854164,putative transcription factor
+CGB_I1040C,STE11alpha,,,12455690,"mapkk kinase, ste/ste11 protein kinase"
+CGB_I1200C,STE12alpha,,,12455690,ste-like transcription factor
+CGB_I1060C,STE20alpha,,,12455960,ste/ste20/paka protein kinase
+CGB_I1090W,STE3alpha,,,12455960,a-factor pheromone receptor
+CGB_C8370W,STE50,,,20971202,mapk signaling pathway adaptor protein
+CGB_B6670C,STE6,,,22466042,putative pheromone transporter
+CGB_C3420C,STE7,,,12828643,map kinase kinase
+CGB_C2780W,STL1,,,19542307,putative monosaccharide transporter
+CGB_F3440C,STP1,,,17319742,putative site-2 protease
+CGB_G1100C,SWE1,,,20696827,serine/threonine-protein kinase
+CGB_I0510W,SXI1alpha,,,12464634,alpha cell-type homeodomain transcription factor
+CGB_K0550W,TAF10,,,20581290,C2H2 zinc finger protein
+CGB_I0090C,TAF12,,,20581290,putative TFIID and saga complex component
+CGB_L0640W,TAF5,,,20581290,putative TFIID and saga complex component
+CGB_E0240C,TAF6,,,20581290,putative TFIID and saga complex component
+CGB_K3240W,TAF9,,,20581290,putative TFIID and saga complex component
+CGB_K0400W,TAL1,,,16524907,transaldolase
+CGB_B6460C,TAO3,,,16775005,ram signaling network cell polarity protein
+CGB_C5190C,TCO1,,,16672377,two-component-like sensor kinase
+CGB_L2780C,TCO2,,,16672377,two-component-like sensor kinase
+CGB_G3520W,TCO4,,,16672377,two-component-like sensor kinase
+CGB_B1200C,TCO5,,,16672377,two-component-like sensor kinase
+CGB_B3870C,TCO6,,,16672377,two-component-like sensor kinase
+CGB_N0120W,TCO7,,,16672377,two-component-like sensor kinase
+CGB_M1520C,TEF1,,,9367655,elongation factor 1-alpha
+CGB_G3040C,TIM13,,,20581290,mitochondrial import inner membrane translocase subunit
+CGB_J1370C,TLK1,,,22412978,Tor-like phosphatidylinositol 3 kinase
+CGB_H1790W,TOM1,,,19542307,e3 ubiquitin-protein ligase
+CGB_H4710W,TOP1,,,19542307,DNA topoisomerase 1
+CGB_F1480W,TOR1,,,10330150,Tor protein kinase
+CGB_F3060W,TPM1,,,22562467,tropomyosin
+CGB_I4320W,TPS1,,,16988267,alpha-alpha trehalose-phosphate synthase
+CGB_B4530C,TPS2,,,16988267,trehalose-6-phophate phosphatase
+CGB_A6580W,TRA1,,,20581290,putative saga and nua4 histone acetyltransferase complex subunit
+CGB_H1160W,TRP1,,,1452032,phosphoribosylanthranilate isomerase
+CGB_F5080W,TRR1,,,19542307,thioredoxin reductase
+CGB_C6300W,TRX1,,,16045626,thioredoxin
+CGB_C1690C,TRX2,,,16045626,thioredoxin
+CGB_G5260W,TSA1,,,16524907,thiol peroxidase
+CGB_G2580W,TSR2,,,19542307,pre-rRNA-processing protein
+CGB_C5100W,TUB1,,,9202476,tubulin beta chain
+CGB_D0140W,TUB2,,,9202476,tubulin beta chain
+CGB_K4330C,TUB4,,,19542307,gamma-tubulin
+CGB_E5120W,TUP1,,,19820119,general transcriptional repressor
+CGB_I0480C,UAP1,,,12455690,uric acid xanthine permease
+CGB_F5510C,UBA2,,,21602483,ubiquitin-activating enzyme e1-like
+CGB_C3070C,UBA3,,,22719877,rub1/nedd8 activating enzyme
+CGB_D3370C,UBA4,,,18854164,urm1 activating enzyme
+CGB_D8540C,UBC12,,,22719877,ubiquitin-conjugating enzyme
+CGB_D4540C,UBC4,,,19542307,ubiquitin conjugating enzyme
+CGB_F3660C,UBC6,,,19542307,ubiquitin-conjugating enzyme
+CGB_E4270W,UBC6-2,,,19542307,ubiquitin conjugating enzyme
+CGB_F0550W,UBC7,,,19542307,ubiquitin-conjugating enzyme
+CGB_D9290W,UBC8,,,19542307,ubiquitin conjugating enzyme
+CGB_B3800W,UBI1,,,7642124,predicted ubiquitin-ribosomal 60s subunit protein L40a fusion protein
+CGB_K1210C,UBI4,,,7642124,ubiquitin precursor
+CGB_C2070W,UBP10,,,22719877,putative ubiquitin carboxyl-terminal hydrolase
+CGB_I2170W,UBP13,,,22719877,pab-dependent poly(A)-specific ribonuclease subunit
+CGB_F3130C,UBP14,,,18854164,ubiquitin carboxyl-terminal hydrolase;
+CGB_B2160W,UBP16,,,18854164,ubiquitin carboxyl-terminal hydrolase
+CGB_L3600C,UBP5,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CGB_A2500W,UBP7,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CGB_D3400W,UCH2,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CGB_D6390W,UFD4,,,18854164,e3 ubiquitin-protein ligase
+CGB_D0330C,UGD1,,,15590833,UDP-glucose 6-dehydrogenase
+CGB_A7560C,UGE1,,,17462022,UDP-glucose epimerase
+CGB_D2250C,UGT1,,,17462022,putative UDP-galactose transporter
+CGB_D0260W,URA3,,,1573522,orotidine-5'-phosphate decarboxylase
+CGB_G1340W,URA5,,,2201894,orotidine monophosphate pyrophosphorylase
+CGB_L2280C,URE1,,,10639402,urease
+CGB_D5470C,URE2,,,23653445,"protein of unknown function, smc3 ortholog"
+CGB_D5460W,URE4,,,23653445,urease accessory protein
+CGB_E6350C,URE6,,,23653445,urease accessory protein
+CGB_A7360W,URE7,,,23653445,urease accessory protein
+CGB_G3620C,URK1,,,20485569,uridine kinase
+CGB_D1690W,URM1,,,22719877,ubiquitin-related modifier
+CGB_G1480C,UVE1,,,24039606,UV DNA damage endonuclease
+CGB_G3260C,UXS1,,,11593010,UDP-glucuronic acid decarboxylase
+CGB_C1050W,VAD1,,,15765146,virulence associated ATP-dependent mRNA helicase
+CGB_L0360C,VAM6,,,18854164,rab guanyl-nucleotide exchange factor
+CGB_B0180C,VCX1,,,20889719,vacuolar calcium exchanger
+CGB_D4750C,VPH1,,,11737651,vacuolar-ATPase subunit
+CGB_A6130W,VPS1,,,19542307,dynamin GTPase
+CGB_A5170C,VPS17,,,19542307,membrane-associated retromer complex subunit
+CGB_C3340C,VPS23,,,23132495,predicted escrt-I complex protein
+CGB_I4070C,VPS25,,,18854164,escrt-II complex subunit
+CGB_H1070W,VPS4,,,19542307,AAA-ATPase
+CGB_H3560C,VPS41,,,16879414,vacuolar protein sorting-associated protein
+CGB_E6640W,WSP1,,,21357479,Wiskott-Aldrich syndrome protein (wasp) homolog
+CGB_K4420W,XFP2,,,24659577,xylulose 5-phosphate/fructose 6-phosphate phosphoketolase
+CGB_F4240C,XRN2,,,25267175,5'-3' exoribonuclease
+CGB_C2100C,YAP4,,,16045626,bZip transcription factor
+CGB_B6310W,YKU80,,,18854164,ATP-dependent DNA helicase
+CGB_F1520C,YOP1,,,22731401,membrane trafficking and ER morphology protein
+CGB_G5450C,YOR1,,,19542307,ATP-binding cassette transporter
+CGB_G1630C,YOX101,,,18854164,homeobox transcriptional repressor
+CGB_M2120W,YPD1,,,16672377,"histidine kinase two-component system, phosphorelay intermediate protein"
+CGB_D8460W,YPK1,,,22339665,protein kinase
+CGB_E1090W,YRM101,,,18854164,putative transcription factor
+CGB_A0060W,YRM103,,,18854164,putative transcription factor
+CGB_C8520W,YSA1,,,25361768,ADP-ribose pyrophosphatase
+CGB_H2720W,ZAP103,,,18854164,putative zinc finger transcription factor
+CGB_L0330C,ZAP104,ZAP1,22916306,18854164,putative zinc finger transcription factor
+CGB_F4180W,ZDS3,,,21726407,zds-like protein
+CGB_J2230W,ZIP1,,,22916306,zinc ion transporter
+CGB_G4230W,ZIP2,,,22916306,zinc ion transporter
+CGB_E4200W,ZIP3,,,22916306,zinc ion transporter
+CGB_G3610W,ZNF2,,,20485569,C2-H2 zinc-finger transcription factor
+CGB_G2110C,ZWF1,,,20400467,glucose-6-phosphate dehydrogenase
+CGB_A1430W,,,,22562467,f-actin-capping protein subunit alpha
+CGB_A2240W,,,,22562467,f-actin-capping protein subunit beta
+CGB_C5530W,,,,21067947,dicer
+CGB_C5540W,,,,21067947,dicer

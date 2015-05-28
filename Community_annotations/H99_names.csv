@@ -1,0 +1,665 @@
+ID,Standard Name,alias,alias PMID,PMID used,Description
+CNAG_01375,ABP1,,,22562467,actin-binding protein homolog
+CNAG_05218,ACA1,,,15590822,adenylyl cyclase-associated protein
+CNAG_04640,ACL1,,,23078142,ATP-citrate lyase
+CNAG_03427,ACO1,,,16524907,aconitate hydratase
+CNAG_00483,ACT1,,,17114598,actin
+CNAG_01626,ADA2,,,22174677,predicted saga histone acetyltransferase complex component
+CNAG_04674,ADA3,,,20581290,predicted saga histone acetyltransferase complex component
+CNAG_02858,ADE12,,,19542307,adenylosuccinate synthetase
+CNAG_02294,ADE2,,,8406836,phosphoribosylaminoimidazole carboxylase
+CNAG_00730,AFR1,,,16428784,ATP-binding cassette transporter
+CNAG_04609,AGO1,,,21067947,argonaute protein
+CNAG_03120,AGS1,,,17244196,"alpha-1,3-glucan synthase"
+CNAG_06901,ALG7,,,21602483,UDP-N-acetyl-glucosamine-1-p transferase
+CNAG_06439,ALO1,,,19542307,"d-arabinono-1,4-lactone oxidase"
+CNAG_03502,ALR2,,,19542307,putative metal ion transporter
+CNAG_00235,AMT1,,,18055915,low-affinity ammonium transporter
+CNAG_04758,AMT2,,,18055915,ammonium transporter
+CNAG_00162,AOX1,,,14500501,altemrnative oxidase
+CNAG_01445,APG9,,,12455690,autophagy-related protein
+CNAG_06574,APP1,,,21971702,secreted antiphagocytic protein
+CNAG_06469,APT1,,,19949048,aminophospholipid translocase(flippase)
+CNAG_01278,APT2,,,19949048,aminophospholipid translocase (flippase)
+CNAG_00383,APT3,,,19949048,aminophospholipid translocase (flippase)
+CNAG_05282,APT4,,,19949048,aminophospholipid translocase (flippase)
+CNAG_01742,AQY1,,,19542307,aquaporin water channel
+CNAG_04258,ARF1,,,16775005,ADP-ribosylation factor
+CNAG_03251,ARF2,,,19542307,ADP-ribosylation factor
+CNAG_02812,ARG3,,,19151325,ornithine carbamoyltransferase
+CNAG_00622,ARG8,,,19151325,acetylornithine aminotransferase
+CNAG_04090,ATF1,,,16045626,activating transcription factor
+CNAG_03133,ATG2602,,,18854164,UDP-glucose sterol transferase
+CNAG_04358,ATM1,,,19542307,mitochondrial inner membrane ABC transporter
+CNAG_05750,ATP1,,,19542307,ATP synthase subunit alpha
+CNAG_02434,ATX1,,,16102007,putative copper ion transporter
+CNAG_06370,BAT2,,,18854164,branched-chain-amino-acid aminotransferase
+CNAG_04755,BCK1,,,16194228,mitogen-activated protein (map) kinase kinase kinase
+CNAG_01897,BDF1,,,19542307,bromodomain transcription factor
+CNAG_03993,BIM1,,,20044015,microtubule binding protein
+CNAG_06346,BLP1,,,21402362,barwin-like protein domain
+CNAG_06347,BLP2,,,21402362,pr4/barwin domain protein
+CNAG_06205,BLP3,,,21402362,pr4/barwin domain protein
+CNAG_01562,BLP4,,,21402362,pr4/barwin domain protein
+CNAG_05372,BLP5,,,21402362,pr4/barwin domain protein
+CNAG_03716,BLP6,,,21402362,pr4/barwin domain protein
+CNAG_02780,BNA5,,,19151325,kynureninase
+CNAG_02779,BNA6,,,19151325,nicotinate-nucleotide pyrophosphorylase
+CNAG_04815,BNI1,,,22562467,formin
+CNAG_02071,BNI4,,,18854164,putative scaffold protein
+CNAG_07311,BRE2,,,19542307,Set1/Ash2 histone methyltransferase complex subunit
+CNAG_01457,BSP1,,,12455690,protein of unknown function; encoded on mat locus
+CNAG_07005,BSP2,,,12455690,armadillo/beta-catenin repeat protein; encoded on mat locus
+CNAG_06804,BSP3,,,12455690,btp/pz domain protein
+CNAG_05181,BWC1,CWC1,15813738,15760278,white-collar transcription factor; blue-light photoresponsive gene
+CNAG_02435,BWC2,CWC2,15813738,15760278,"white-collar transcription factor, blue-light photoresponsive gene"
+CNAG_06134,BZP1,,,19151325,bZip domain protein
+CNAG_03202,CAC1,,,12455973,adenylate cyclase
+CNAG_00718,CAC2,,,23042129,chromatin assembly complex protein
+CNAG_02805,CAN1,,,16400172,beta-type carbonic anhydrase
+CNAG_05144,CAN2,,,16400172,beta-type carbonic anhydrase
+CNAG_07554,CAP10,,,10482503,capsule-associated protein
+CNAG_06813,CAP1alpha,,,12455690,O-glucosyltransferase
+CNAG_01156,CAP2,,,15728721,capsular related protein
+CNAG_03735,CAP4,,,17462022,"beta-1,2-xylosyltransferase"
+CNAG_01283,CAP5,,,15728721|17462022,"beta-1,2-xylosyltransferase"
+CNAG_00721,CAP59,,,8007987,"alpha-1,3-mannosyltransferase"
+CNAG_06016,CAP6,,,17462022,"alpha-1,3-mannosyltransferase"
+CNAG_00600,CAP60,,,9573112,capsule-associated protein
+CNAG_02885,CAP64,,,8675296,capsule-associated protein
+CNAG_07937,CAS1,,,11703667,O-acetyltransferase
+CNAG_03644,CAS3,,,15590825,capsule related protein
+CNAG_00701,CAS31,,,15590825,protein involved in gxm O-acetylation
+CNAG_00124,CAS32,,,15590825,capsule structure designer protein
+CNAG_02581,CAS33,,,15590825,capsular associated protein
+CNAG_01654,CAS34,,,15590825,putative capsule structure designer protein
+CNAG_00746,CAS35,,,15590825,capsular associated protein
+CNAG_02036,CAS4,,,17462022,putative sugar transporter
+CNAG_03695,CAS41,,,9806801,probable sugar phosphate/phosphate translocator; capsule biosynthetic protein
+CNAG_03929,CAS42,,,17462022,putative sugar transporter
+CNAG_01489,CAS9,,,17462022,maltose O-acetyltransferase
+CNAG_05023,CAS91,,,17462022,putative maltose o-acetyltransferase
+CNAG_00865,CAS92,,,17462022,putative O-acetyltransferase
+CNAG_04981,CAT1,,,16963629,catalase 1 similar to spore-specific catalases
+CNAG_05256,CAT2,,,16963629,catalase 2
+CNAG_00575,CAT3,,,16963629,catalase 3
+CNAG_05015,CAT4,,,16963629,catalase 4
+CNAG_03567,CBK1,,,16775005,serine/threonine kinase of the ram signaling pathway
+CNAG_00802,CBP1,,,10899116,calcineurin binding protein
+CNAG_06415,CCC2,,,16102007,Cu(+2)-transporting p-type ATPase
+CNAG_01208,CCH1,,,16950930,Ca(2+)-permeable channel
+CNAG_00556,CCK1,,,21926330,casein kinase i
+CNAG_07427,CCK2,,,21926330,casein kinase i
+CNAG_01138,CCP1,,,19542307,putative mitochondrial cytochrome c peroxidase
+CNAG_03190,CCR4,,,17646356,ccr4-not transcriptional regulatory complex component
+CNAG_05799,CDA1,,,17400891,chitin deactylase
+CNAG_01239,CDA3,,,17400891,chitin deacetylase
+CNAG_01373,CDC10,,,22466042,septin ring protein
+CNAG_02196,CDC11,,,22466042,septin
+CNAG_01740,CDC12,,,22466042,septin
+CNAG_04243,CDC24,,,17233829,guanine nucleotide exchange factor (GEF)
+CNAG_00415,CDC2801,,,18854164,cyclin-dependent kinase of PITSLRE subfamily
+CNAG_05925,CDC3,,,22466042,septin ring protein
+CNAG_05348,CDC42,DCH2,,20025659,rho-like GTPase
+CNAG_05968,CDC420,CDC42,,20025659,rho-like GTPase
+CNAG_02756,CDC43,,,24014765,geranylgeranyltransferase-I beta subunit
+CNAG_00601,CEL1,,,9573112,putative glycosyl hydrolase
+CNAG_00795,CFL1,,,22737071,hyphal flocculin
+CNAG_06241,CFO1,FET3,20174553,19542307,ferroxidase/laccase
+CNAG_02958,CFO2,,,19542307,ferroxidase
+CNAG_06242,CFT1,,,18282105,major iron permease
+CNAG_02959,CFT2,,,18282105,iron permease
+CNAG_03694,CFT3,,,18282105,iron permease
+CNAG_03412,CHI2,,,19734369,endochitinase
+CNAG_02598,CHI21,,,19734369,endochitinase
+CNAG_04245,CHI22,,,19734369,endochitinase
+CNAG_02351,CHI4,,,19734369,endochitinase
+CNAG_03139,CHO2,,,18854164,phosphatidylethanolamine N-methyltransferase
+CNAG_03099,CHS1,,,16278457,putative chitin synthase
+CNAG_03326,CHS2,,,16278457,putative chitin synthase
+CNAG_05581,CHS3,,,16278457,putative chitin synthase
+CNAG_00546,CHS4,CHS6,23251520,16278457,putative chitin synthase
+CNAG_05818,CHS5,,,16278457,putative chitin synthase
+CNAG_06487,CHS6,,,16278457,putative chitin synthase
+CNAG_02217,CHS7,,,16278457,putative chitin synthase
+CNAG_07499,CHS8,,,16278457,putative chitin synthase
+CNAG_01885,CID14,,,23966870,TRAMP complex associated poly(a) polymerase
+CNAG_07410,CID1alpha,,,12455690,cid1-family polyA polymerase
+CNAG_01653,CIG1,,,15720553,cytokine inducing-glycoprotein
+CNAG_07718,CIN1,,,20345666,"intersectin, C-terminal rhoGEF"
+CNAG_04864,CIR1,,,17121456,iron-responsive gata-type transcription factor
+CNAG_00061,CIT1,,,17114598,citrate synthase
+CNAG_03590,CKB1,,,20696827,casein kinase II beta chain
+CNAG_02702,CLC-A,,,14622414,putative voltage-gated chloride channel
+CNAG_03617,CLP1,,,17993575,clampless protein essential for dikaryotic filament formation
+CNAG_03158,CMT1,,,14504286,"alpha-1,3-mannosyltransferase"
+CNAG_04796,CNA1,,,9184205,calcineurin a catalytic subunit
+CNAG_00888,CNB1,,,11251806,"calcineurin b, regulatory subunit"
+CNAG_01667,COQ2,,,19542307,4-hydroxybenzoate polyprenyl transferase
+CNAG_03627,CPA1,,,11415984,cyclophilin A
+CNAG_03621,CPA2,,,11415984,cyclophilin A
+CNAG_02531,CPK1,,,12828643,mitogen activated protein kinase
+CNAG_02797,CPL1,,,18854164,putative secreted protein
+CNAG_03938,CPR2,,,19322200,nonmating-type specific pheromone G-protein coupled receptor
+CNAG_04320,CPS1,,,16790766,polysaccharide synthase
+CNAG_03012,CQS1,,,15686566,quorum sensing-like molecule
+CNAG_00125,CRG1,,,15302835,regulator of G-protein signaling
+CNAG_01371,CRG2,,,18658258,regulator of G protein signaling
+CNAG_01707,CRG3,,,18658258,regulator of G protein signaling
+CNAG_06193,CRK1,,,21111055,protein kinase
+CNAG_05301,CRN1,CRN102,18854164,22562467,"coronin, putative cortical actin cytoskeletal component"
+CNAG_01697,CSN1201,,,18854164,cop9 signalosome subunit 12
+CNAG_03151,CSN4,,,18854164,similar to cop9 signalosome subunit 4
+CNAG_04177,CSN7,,,18854164,similar to cop9 signalosome subunit 7
+CNAG_06678,CSR1,,,16278457,putative chitin synthase regulator
+CNAG_07636,CSR2,,,16278457,putative chitin synthase regulator
+CNAG_06726,CSR3,,,16278457,putative chitin synthase regulator
+CNAG_04662,CTF4,,,19542307,chromosome transmission fidelity protein
+CNAG_07701,CTR2,,,20824073,putative copper ion transporter
+CNAG_00979,CTR4,,,17290306,copper uptake transporter
+CNAG_03422,CTS1,,,14555485,calcineurin temperature suppressor
+CNAG_07724,CUF1,MAC1,17112316,15334556,copper-sensing transcription factor
+CNAG_03138,CUL3,,,18854164,cullin subunit of scf-like ubiquitin ligase
+CNAG_05148,CXT1,CAP3,14504286,17430900,"beta-1,2-xylosyltransferase"
+CNAG_05689,DAM1,BCA2,22339665,19749173,pre-mRNA-splicing factor
+CNAG_06416,DAP2,,,21602483,putative dipeptidyl aminopeptidase
+CNAG_07418,DCN1,,,22719877,scaffold-type e3 ligase
+CNAG_02742,DCR1,,,21067947,dicer
+CNAG_02745,DCR2,,,21067947,dicer
+CNAG_07422,DHA1,,,11035725,delayed-type hypersensitivity antigen
+CNAG_00597,DIP5,,,20485569,amino acid transporter
+CNAG_00757,DOA4,,,18854164,ubiquitin carboxyl-terminal hydrolase
+CNAG_00762,DPH1,,,19151325,diphthamide biosynthesis protein
+CNAG_07448,DUR3,,,19542307,putative urea transporter
+CNAG_02860,EBG1,,,20485569,"endo-1,3(4)-beta-glucanase"
+CNAG_05592,ECA1,,,17502401,sarcoplasmic/endoplasmic reticulum Ca2+-ATPase
+CNAG_00883,ECM2201,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNAG_01117,EF3,,,11244063,elongation factor 3
+CNAG_00623,EGCrP1,,,22072709,fungus-specific glucosylceramide
+CNAG_07572,ELP3,,,19542307,pol II transcription elongation factor
+CNAG_00531,ENA1,ENA2,,19542307,p-type ATPase sodium pump
+CNAG_06829,ERG1,,,19542307,squalene monooxygenase
+CNAG_02918,ERG10,,,17645443,acetyl-CoA C-acetyltransferase
+CNAG_00040,ERG11,,,17645443,lanosterol 14-alpha-demethylase
+CNAG_03311,ERG13,,,17645443,hydroxymethylglutaryl-CoA synthase
+CNAG_02896,ERG130,,,17645443,hydroxymethylglutaryl-CoA synthase
+CNAG_00854,ERG2,,,17645443,C-8 sterol isomerase
+CNAG_02084,ERG20,,,19542307,farnesyl pyrophosphate synthetase
+CNAG_00117,ERG24,,,17645443,C-14 sterol reductase
+CNAG_01737,ERG25,,,17645443,C-4 methyl sterol oxidase
+CNAG_04605,ERG26,,,19542307,C-3 sterol dehydrogenase
+CNAG_07437,ERG27,,,19542307,3-keto sterol reductase
+CNAG_03009,ERG28,,,19542307,putative ER membrane protein
+CNAG_00519,ERG3,,,17645443,C-5 sterol desaturase
+CNAG_02830,ERG4,,,17645443,C-24(28) sterol reductase
+CNAG_06644,ERG5,,,17645443,C-22 sterol desaturase
+CNAG_03819,ERG6,,,17645443,sterol 24-C-methyltransferase
+CNAG_01129,ERG7,,,17645443,lanosterol synthase
+CNAG_06001,ERG8,,,19542307,phosphomevalonate kinase
+CNAG_01839,ESS1,,,15870468,peptidyl-prolyl cis-trans isomerase
+CNAG_06806,ETF1alpha,,,12455690,electron transfer flavoprotein alpha subunit
+CNAG_02225,EXG104,,,18854164,"glucan 1,3-beta-glucosidase"
+CNAG_06815,FAO1,,,12455690,putative fatty alcohol oxidase in the mating-type locus
+CNAG_02099,FAS1,,,17698629,fatty acid synthase beta subunit
+CNAG_02100,FAS2,,,17698629,fatty acid synthase complex protein
+CNAG_05280,FBP1,,,21478432,f-box protein of scf ubiquitin-ligase complex
+CNAG_00613,FCY1,,,22080454,cytosine deaminase
+CNAG_01681,FCY2,,,22080454,cytosine permease
+CNAG_04982,FCY3,,,22080454,putative cytosine-purine permease
+CNAG_04276,FCY4,,,22080454,cytosine permease
+CNAG_01464,FHB1,,,14614821,flavohemoglobin
+CNAG_06508,FKS1,,,9882657,"1,3-beta-glucan synthase component"
+CNAG_03845,FNX1,,,23028773,multidrug resistance transporter
+CNAG_06291,FPD1,,,17400891,polysaccharide deacetylase
+CNAG_01148,FPR3,,,21602483,peptidyl-prolyl cis-trans isomerase
+CNAG_06821,FRE2,,,19542307,ferric reductase transmembrane component
+CNAG_06524,FRE3,,,24692633,ferric reductase
+CNAG_03682,FRR1,FKBP12,10330150,10330150,fk506-binding protein 
+CNAG_02337,FUR1,,,22080454,uracil phosphoribosyltransferase
+CNAG_00181,FYV10,,,18854164,putative fyv10 protein homolog
+CNAG_06052,GAL7,,,8577246,galactose-1-phosphate uridyl transferase
+CNAG_00193,GAT1,,,20673806,gata type zinc finger protein
+CNAG_01551,GAT201,,,18854164,gata family transcription factor
+CNAG_06762,GAT204,,,17661046,"gata transcription factor, capsule-independent antiphagocytic protein"
+CNAG_01660,GCN3,,,19542307,translation initiation factor eif-2b subunit alpha
+CNAG_00375,GCN5,,,20581290,saga complex histone acetyltransferase
+CNAG_05583,GCS1,,,16741577,ceramide glucosyltransferase
+CNAG_05050,GCS2,,,22412978,ADP-ribosylation factor GTPase-activating protein
+CNAG_05465,GIB2,,,16950773,G-protein beta-like rack1 protein homolog
+CNAG_00457,GLN1,,,17114598,glutamine synthetase
+CNAG_01841,GLN3,,,18854164,gata family transcription factor
+CNAG_05314,GLO3,,,22412978,ADP-ribosylation factor GTPase-activating protein
+CNAG_02399,GLR1,,,16524907,glutathione oxidoreductase
+CNAG_05817,GMT1,,,17351078,GDP-mannose transporter
+CNAG_03426,GMT2,,,17351078,GDP-mannose transporter
+CNAG_06168,GNO1,,,14614821,alcohol dehydrogenase
+CNAG_04505,GPA1,,,8005675,guanine nucleotide-binding protein subunit alpha
+CNAG_00179,GPA2,,,17581859,heterotrimeric G-protein coupled receptor alpha subunit
+CNAG_02090,GPA3,,,17581859,heterotrimeric G-protein coupled receptor alpha subunit
+CNAG_01262,GPB1,,,10594037,G-protein beta subunit
+CNAG_06699,GPD,,,10352226,glyceraldehyde-3-phosphate dehydrogenase
+CNAG_05890,GPG2,,,16950773,heterotrimeric G-protein coupled receptor gamma subunit similar to ste18
+CNAG_06655,GPI8,,,15720553,GPI-anchor transamidase
+CNAG_04730,GPR4,,,16291861,G-protein coupled receptor
+CNAG_02503,GPX2,,,19542307,glutathione peroxidase
+CNAG_02182,GRE2,,,19542307,D-lactaldehyde dehydrogenase
+CNAG_02950,GRX3,,,19542307,thioredoxin
+CNAG_03985,GRX5,,,19542307,glutathione-dependent oxidoreductase
+CNAG_06730,GSK3,,,19749173,similar to glycogen synthase kinase
+CNAG_04308,HAD1,,,22707485,3-hydroxyacyl-CoA dehydrogenase
+CNAG_03134,HAD2,,,22707485,3-hydroxyacyl-CoA dehydrogenase
+CNAG_06818,HAP1,,,21124817,Zn2-Cys6 transcription factor
+CNAG_07435,HAP2,,,21124817,CCAAT-binding transcription factor
+CNAG_02215,HAP3,,,21124817,CCAAT -binding transcription factor
+CNAG_07680,HAP5,,,21124817,CCAAT t-binding transcription factor
+CNAG_01242,HAPX,,,21124817,CCAAT -binding transcription factor
+CNAG_03116,HCM1,,,18854164,forkhead transcription factor
+CNAG_06799,HEM12,,,21124817,uroporphyrinogen decarboxylase
+CNAG_02460,HEM13,,,21124817,coproporphyrinogen-III oxidase
+CNAG_05809,HEM15,,,20488877,ferrochelatase
+CNAG_01721,HEM3,,,21124817,porphobilinogen deaminase
+CNAG_01908,HEM4,,,21124817,uroporphyrinogen-III synthase
+CNAG_06659,HEX1,,,19734369,beta-hexosaminidase
+CNAG_04461,HFM1,,,20485569,ATP-dependent DNA helicase
+CNAG_04158,HIRA,,,18854164,nucleosome assembly complex protein
+CNAG_05509,HIS3,,,8045413,imidazoleglycerol-phosphate dehydratase
+CNAG_06534,HMG1,,,17645443,hydroxymethylglutaryl-CoA reductase
+CNAG_05836,HOC1,,,22500028,"alpha 1,6-mannosyltransferase"
+CNAG_01214,HOC2,,,22500028,"alpha 1,6-mannosyltransferase"
+CNAG_01523,HOG1,,,15728721,mitogen-activated protein kinase
+CNAG_05563,HOS2,,,18854164,class II histone deacetylase 
+CNAG_02727,HOS4,,,18854164,"similar to Avo2, Tor2 kinase component"
+CNAG_05469,HRD1,,,18854164,e3 ubiquitin-protein ligase
+CNAG_00745,HRK1,,,18854164,serine/threonine-protein kinase
+CNAG_03823,HRT1,,,22719877,ubiquitin ligase complex ring-box protein
+CNAG_05882,HSE102,,,18854164,class e vacuolar protein-sorting machinery protein
+CNAG_01446,HSP12,HSP122,20097740,12455690,"heat shock protein, 12Kda"
+CNAG_02085,HST302,,,18854164,histone deacetylase
+CNAG_04371,HSV2,,,18854164,WD40 protein related to 3-phosphorylated inositide-binding protein
+CNAG_05098,HUB1,,,22719877,ubiquitin-like protein
+CNAG_05480,HXK1,,,21652778,hexokinase
+CNAG_03769,HXK2,,,17041184,hexokinase
+CNAG_03438,HXT1,,,15907385,hexose transporter
+CNAG_05303,ICL1,,,12228298,isocitrate lyase
+CNAG_00265,IDI1,,,19542307,isopentenyl-diphosphate delta-isomerase
+CNAG_03920,IDP1,,,20400467,isocitrate dehydrogenase
+CNAG_06809,IKS1,,,12455690,serine/threonine-protein kinase
+CNAG_00268,ILV2,,,15133116,acetolactate synthase
+CNAG_00441,IMD1,,,23071437,inosine-5'-monophosphate dehydrogenase
+CNAG_04453,IPC1,,,11157776,inositol-phosphoryl ceramide synthase
+CNAG_03670,IRE1,,,21852949,"serine/threonine-protein kinase, unfolded protein response"
+CNAG_02131,ISA1,,,19542307,iron-sulfur cluster assembly protein
+CNAG_00097,ITR1,,,20689743,myo-inositol transporter
+CNAG_04552,ITR1A,,,20689743,putative inositol transporter
+CNAG_00864,ITR2,,,20689743,myo-inositol transporter
+CNAG_05377,ITR3,,,20689743,myo-inositol transporter
+CNAG_00867,ITR3A,,,20689743,myo-inositol transporter
+CNAG_05667,ITR3B,,,20689743,myo-inositol transporter
+CNAG_05381,ITR3C,,,20689743,myo-inositol transporter
+CNAG_05662,ITR4,,,20689743,myo-inositol transporter
+CNAG_04024,ITR5,,,20689743,myo-inositol transporter
+CNAG_03910,ITR6,,,20689743,myo-inositol transporter
+CNAG_05538,JJJ1,,,18854164,DNAj-like cochaperone
+CNAG_05884,KAP123,,,19749173,importin beta-4 subunit
+CNAG_05752,KAR3,,,20044015,kinesin microtuble motor protein
+CNAG_00405,KIC1,,,16775005,ste/ste20/ysk protein kinase
+CNAG_01938,KIN1,,,18854164,serine/threonine protein kinase
+CNAG_05558,KIN4,,,20485569,serine/threonine protein kinase
+CNAG_03453,KIP1,,,19542307,kinesin-like protein
+CNAG_03648,KRE5,,,20384682,UDP-glucose:glycoprotein glucosyltransferase
+CNAG_00914,KRE6,,,20384682,putative beta-glucan synthase
+CNAG_06835,KRE61,,,20384682,putative beta-glucan synthase
+CNAG_06832,KRE62,,,20384682,putative beta-glucan synthase
+CNAG_06031,KRE63,SKN1,23078142,20384682,putative beta-glucan synthase
+CNAG_05815,KRE64,,,20384682,putative beta-glucan synthase
+CNAG_01905,KSP1,,,18854164,serine/threonine protein kinase
+CNAG_03832,KTR3,,,22500028,"alpha 1,2-mannosyltransferase"
+CNAG_03465,LAC1,,,8300520,laccase
+CNAG_03464,LAC2,,,15643074|15643075,laccase
+CNAG_00450,LEU2,,,17114598,3-isopropylmalate dehydrogenase
+CNAG_00460,LIV1,,,18854164,virulence related rotein of unknown function
+CNAG_02930,LIV10,,,18854164,virulence related protein of unknown function
+CNAG_05422,LIV11,,,18854164,virulence related protein of unknown function
+CNAG_05105,LIV12,,,18854164,eukaryotic translation initiation factor 3 subunit l
+CNAG_02753,LIV13,,,18854164,endoplasmic reticulum protein
+CNAG_05934,LIV15,,,18854164,translin domain protein
+CNAG_05835,LIV3,,,18854164,wor1/pac2 family transcription factor
+CNAG_06283,LIV4,,,20581290,putative myb-like mRNA polymerase I termination factor
+CNAG_02409,LIV5,,,18854164,protein of unknown function
+CNAG_07315,LIV6,,,23300468,putative endovacuolar system protein 
+CNAG_06464,LIV7,,,18854164,Golgi factor and virulence related protein
+CNAG_01611,LIV8,,,18854164,infection related protein of unknown function
+CNAG_03149,LIV9,,,18854164,infection related ring finger protein
+CNAG_06765,LMP1,,,24743168,low mating performance protein
+CNAG_07004,LPD1alpha,,,12455690,putative dihydrolipoyl dehydrogenase
+CNAG_05703,LRG1,,,16194228,rho GTPase-activating protein
+CNAG_05152,LRO1,,,22412978,phospholipid:diacylglycerol acyltransferase
+CNAG_01183,LSB1,,,18854164,bar-SH3 domain protein
+CNAG_03588,LYS2,,,19542307,L-aminoadipate-semialdehyde dehydrogenase
+CNAG_00247,LYS9,,,15189996,saccharopine dehydrogenase
+CNAG_04312,MAN1,,,11359567,mannose-6-phosphate isomerase
+CNAG_03926,MAP1,,,19542307,methionine aminopeptidase
+CNAG_06203,MAT2,,,20485569,hmg (high mobility group) box transcription factor
+CNAG_01452,MAT3,,,12455690,mat3 pheromone repeat protein
+CNAG_04637,MBF1,,,16102007,multiprotein bridging factor
+CNAG_07464,MBS1,,,22080454,mbp1/swi4-like transcription factor
+CNAG_00796,MDR1,,,9409767,putative abc multidrug resistance transporter with similarity to Ste6
+CNAG_04735,MEP1,,,23300468,metalloproteinase
+CNAG_04215,MET3,,,19542307,sulfate adenylyltransferase
+CNAG_01890,MET6,,,15347759,methionine synthase
+CNAG_02870,MET7,,,19542307,folylpolyglutamate synthetase
+CNAG_07407,MFalpha3,,,12455690,mating-type pheromone alpha
+CNAG_05721,MFE2,,,22707485,multifunctional beta-oxidation protein
+CNAG_01530,MGA2,,,15470254,transcription factor
+CNAG_06327,MIG1,,,21652778,zinc finger transcription factor
+CNAG_02357,MKK2,,,16194228,serine/threonine-protein kinase
+CNAG_04837,MLN1,,,18854164,bHLH family transcription factor
+CNAG_06224,MLN2,,,18854164,nuclear distribution protein NudC homolog
+CNAG_01644,MLN4,,,18854164,protein of unknown function
+CNAG_05653,MLS1,,,17041184,malate synthase
+CNAG_05886,MMS2,,,18854164,ubiquitin-conjugating enzyme
+CNAG_06782,MNN2,,,22500028,"putative alpha-1,2-mannosyltransferase"
+CNAG_05794,MOB2,,,23055925,ram signaling network protein kinase activator
+CNAG_00776,MP88,,,12228274,immunoreactive mannoprotein
+CNAG_01230,MP98,CDA2,17400891,11504924,chitin-deacetylase
+CNAG_07745,MPD1,,,11021946,mannitol-1-phosphate dehydrogenase
+CNAG_04514,MPK1,,,21926330,mitogen-activated protein kinase
+CNAG_04282,MPK2,,,15075272,mitogen-activated protein (map) kinase
+CNAG_03297,MSL1,,,23042129,putative histone acetyltransferase complex subunit
+CNAG_06645,MTD1,,,19542307,methylenetetrahydrofolate dehydrogenase [NAD(+)]
+CNAG_06971,MYO2alpha,,,12455690,myosin class v heavy chain
+CNAG_00286,NAB2,,,19542307,putative nuclear polyadenylated mRNA-binding protein
+CNAG_01003,NCP1,,,17645443,electron transporter
+CNAG_00788,NDH1,,,16775005,NADH dehydrogenase
+CNAG_03935,NEP1,,,22339665,"similar
+to
+Neprilysin
+(neutral
+endopeptidase)
+"
+CNAG_01678,NHA1,,,19542307,Na+/H+ antiporter
+CNAG_00445,NHP6B01,,,18854164,nonhistone chromosomal protein
+CNAG_02115,NHP6B02,,,18854164,nonhistone chromosomal protein
+CNAG_03664,NIC1,,,23653445,putative nickel transporter
+CNAG_07413,NOG2,,,12455690,putative nucleolar gtp-binding protein
+CNAG_05222,NRG1,,,16835458,transcription factor
+CNAG_02130,NSR1,,,20696827,putative mRNA binding protein
+CNAG_03785,NTH1,,,16988267,putative trehalase
+CNAG_03917,NUP75,,,18854164,nuclear pore complex protein
+CNAG_00744,OCH1,,,15256547,"alpha 1,6-mannosyltransferase"
+CNAG_00413,OFD1,,,19749173,putative oxidoreductase
+CNAG_03572,OPS1,,,15760278,opsin-1
+CNAG_00473,OST2,,,21602483,ER oligosaccharyl transferase complex subunit
+CNAG_06428,OTU1,,,22719877,ubiquitin-specific protease
+CNAG_02008,OVA1,,,17367210,protein of unknown function
+CNAG_03968,PAB2,,,23966870,nuclear poly (A) binding protein
+CNAG_05970,PAK1,,,12455960,ste/ste20/paka protein kinase
+CNAG_01173,PAN1,,,18854164,Lag1 family transcription factor
+CNAG_07414,PAN6,,,12455690,pantoate-beta-alanine ligase
+CNAG_00769,PBS2,,,15728721,map kinase kinase 
+CNAG_01172,PBX1,,,17337638,parallel beta-helix repeat protein
+CNAG_05562,PBX2,,,17337638,parallel beta-helix repeat protein
+CNAG_04217,PCK1,,,21652778,phosphoenolpyruvate carboxykinase
+CNAG_03385,PCL103,,,18854164,cyclin
+CNAG_05081,PDE1,,,16339715,phosphodiesterase
+CNAG_07470,PDE2,,,16339715,phosphodiesterase
+CNAG_02915,PDK1,,,22339665,serine threonine protein kinase
+CNAG_04984,PDR16,,,22412978,phosphatidylinositol transfer protein
+CNAG_00869,PDR5,,,19542307,ATP-binding cassette transporter
+CNAG_04098,PDR5-2,,,19542307,ATP-binding cassette transporter
+CNAG_06348,PDR5-3,,,19542307,ATP-binding cassette transporter
+CNAG_03894,PDR802,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNAG_03079,PER1,,,21602483,ER protein for association of GPI-anchored proteins with lipid rafts
+CNAG_07403,PEX1,,,17041184,AAA-peroxin
+CNAG_01926,PEX5,,,17041184,peroxisomal targeting signal (PTS1) receptor 
+CNAG_04174,PEX6,,,17041184,AAA-peroxin
+CNAG_00516,PEX7,,,17041184,peroxisomal signal (PTS2) receptor
+CNAG_02229,PFT1,,,20485569,protein farnesyltransferase alpha subunit
+CNAG_01758,PGU1,,,18854164,polygalacturonase
+CNAG_02777,PHO84,,,19542307,inorganic phosphate transporter
+CNAG_01988,PHY1,TCO3,16672377,15760278,two-component-like sensor kinase/putative phytochrome
+CNAG_07744,PIK1,,,20696827,1-phosphatidylinositol 4-kinase
+CNAG_00396,PKA1,,,11287622,protein kinase A catalytic subunit
+CNAG_04162,PKA2,,,14871933,protein kinase A (PKA) catalytic subunit
+CNAG_01845,PKC1,,,18689526,protein kinase C
+CNAG_00047,PKP1,,,19542307,pyruvate dehydrogenase kinase
+CNAG_00570,PKR1,,,11287622,camp dependent protein kinase regulatory subunit
+CNAG_06085,PLB1,,,11123698,phospholipase B
+CNAG_02867,PLC1,,,18532984,phosphatidylinositol phospholipase C
+CNAG_02968,PLC2,,,18532984,phosphatidylinositol-specific phospholipase C
+CNAG_05534,PLR1,,,19151325,putative pyridoxal reductase or aldo-keto reductase
+CNAG_06400,PMA1,,,11118522,plasma membrane H(+)-ATPase
+CNAG_01232,PMC1,,,21655435,putative calcium-transporting ATPase
+CNAG_05351,PMM1,,,20174553,putative phosphomannomutase
+CNAG_05135,PMR1,,,21655435,putative calcium-transporting ATPase
+CNAG_06834,PMT1,,,19633715|17142566,protein-O-mannosyltransferase
+CNAG_04763,PMT2,,,19633715,dolichyl-phosphate-mannose-protein mannosyltransferase
+CNAG_00996,PMT4,,,17142566,O-mannosyltransferase
+CNAG_04869,PNB1,,,20485569,para-nitrobenzyl esterase
+CNAG_01652,PNG1,,,21602483,peptide N-glycanase
+CNAG_02236,PPG1,,,16194228,type 2a-like serine/threonine-protein phosphatase
+CNAG_00408,PPH3,,,16194228,serine/threonine-protein phosphatase catalytic subunit
+CNAG_05866,PRM1,,,20485569,putative plasma membrane fusion protein
+CNAG_04990,PRO2,,,19151325,gamma-glutamyl phosphate reductase
+CNAG_06064,PTP1,,,24728196,protein tyrosine phosphatase
+CNAG_05155,PTP2,,,24728196,protein tyrosine phosphatase
+CNAG_01413,PUB1,,,19542307,putative polyadenylated mRNA-binding protein
+CNAG_02810,PUF4,,,16194228,pumilio-family mRNA binding protein
+CNAG_02049,PUT1,,,23564202,proline oxidase
+CNAG_05062,PUt2,,,23564202,delta-pyrroline-5-carboxylate
+CNAG_02048,PUT5,,,23564202,proline oxidase
+CNAG_02764,PXA2,,,20696827,peroxisomal ATP-binding cassette transporter
+CNAG_01820,PYK1,,,21652778,pyruvate kinase
+CNAG_02050,QDR1,,,19542307,MFS multidrug transporter
+CNAG_02883,RAC1,,,22466042,ras-like gtp-binding protein
+CNAG_05998,RAC2,,,23748012,rho-GTPase
+CNAG_03932,RAD17,,,19151325,cell cycle checkpoint protein
+CNAG_00772,RAD23,,,18854164,putative UV excision repair protein
+CNAG_01163,RAD54,,,18854164,DNA repair and recombination protein
+CNAG_05740,RAM1,,,15184578,protein farnesyltransferase subunit beta
+CNAG_00293,RAS1,,,10792722,G-protein signaling GTPase
+CNAG_04761,RAS2,,,11782511,G-protein signaling GTPase
+CNAG_00130,RCK2,HRK1,21533251,18854164,predicted protein kinase
+CNAG_03316,RDI1,,,18779335,rho gdp-dissociation inhibitor
+CNAG_03466,RDP1,,,21067947,putative mRNA-dependent RNA polymerase
+CNAG_05838,RGD1,,,18854164,rho GTPase activating protein (GAP) homolog
+CNAG_03315,RHO1,,,10455236,GTP-binding protein
+CNAG_03130,RHO10,,,23159519,rho-type GTPase
+CNAG_06606,RHO104,RHO11,23159519,18854164,rho family GTPase
+CNAG_05712,RIB4,,,19542307,"6,7-dimethyl-8-ribityllumazine synthase"
+CNAG_05431,RIM101,,,20174553,C2H2 zinc finger transcription factor
+CNAG_03582,RIM20,,,20174553,escrt-III-associated proteolytic activator of rim101
+CNAG_03760,RINT1,,,18854164,Rad50-interacting protein 1 homolog
+CNAG_03998,RLM1,,,19542307,mads-box transcription factor
+CNAG_01350,RMD5,,,18854164,putative ubiquitin ligase
+CNAG_04119,ROM2,,,16194228,rho guanyl-nucleotide exchange factor
+CNAG_07903,ROM20,,,16194228,rho guanine nucleotide exchange factor
+CNAG_03680,ROM21,,,16194228,rho guanine nucleotide exchange factor
+CNAG_01316,RPA32,,,22916030,replication protein
+CNAG_01144,RPA70,,,22916030,replication protein
+CNAG_01444,RPB4,,,23659661,mRNA polymerase II subunit
+CNAG_05690,RPD304,,,18854164,histone deacetylase
+CNAG_05622,RPH1,,,18854164,histone demethylase
+CNAG_05232,RPL2,,,23659661,large subunit ribosomal protein
+CNAG_06811,RPL22alpha,,,12455690,large subunit ribosomal protein L22e
+CNAG_00779,RPL27,,,23659661,large subunit ribosomal protein L27e
+CNAG_00232,RPL30,,,17114598,large subunit ribosomal protein L30e
+CNAG_01455,RPL39alpha,,,12455690,large subunit ribosomal protein L39
+CNAG_00034,RPL9B,,,17114598,large subunit ribosomal protein L9
+CNAG_07028,RPN11,,,22719877,26s proteasome lid component
+CNAG_06733,RPN14,,,21602483,19s proteasome regulatory particle base assembly chaperone
+CNAG_01083,RPN5,,,21602483,26s proteasome regulatory subunit
+CNAG_07409,RPO41alpha,,,12455690,"DNA-directed mRNA polymerase, mitochondrial"
+CNAG_00940,RRP44,,,23966870,exosome complex exonuclease
+CNAG_02773,RRP6,,,23966870,exosome complex exonuclease
+CNAG_02134,RSC8,,,19542307,rsc chromatin remodeling complex subunit
+CNAG_05355,RSP5,,,19749173,e3 ubiquitin-protein ligase
+CNAG_06648,RTF1,,,18854164,mRNA polymerase-associated protein
+CNAG_02827,RUB1,,,18854164,ubiquitin-like protein
+CNAG_07411,RUM1alpha,,,12455690,phd transcription factor
+CNAG_04738,SAC6,,,22562467,fimbrin
+CNAG_00886,SAH1,,,19542307,adenosylhomocysteinase
+CNAG_03853,SAR1,,,19749173,small copII coat GTPase
+CNAG_06322,SAS3,,,18854164,histone acetyltransferase
+CNAG_02817,SAV1,,,17021252,rab family GTPase
+CNAG_06351,SBH1,,,22412978,ER-protein sec61-beta ortholog
+CNAG_06301,SCH9,,,19542307,agc family protein kinase
+CNAG_01580,SCP1,,,17319742,sterol regulatory element-binding protein cleavage-activating protein
+CNAG_03153,SEC14-1,,,21453402,phosphatidylinositol/phosphatidylcholine transfer protein
+CNAG_00036,SEC14-2,,,21453402,phosphatidylinositol/phosphatidylcholine transfer protein
+CNAG_04684,SEC23,,,19749173,putative GTPase-activating protein
+CNAG_06773,SEC24,,,19749173,copii vesicle coat protein
+CNAG_01911,SEC6,,,19210702,exocyst complex component
+CNAG_01243,SET101,,,18854164,histone-lysine N-methyltransferase
+CNAG_03188,SET202,,,18854164,histone-lysine N-methyltransferase
+CNAG_06591,SET302,,,18854164,histone deacetylase complex protein
+CNAG_05124,SEY1,,,22412978,dynamin-like GTPase
+CNAG_06093,SFB2,,,19749173,copII vesicle coat protein
+CNAG_02104,SFH5,,,21453402,phosphatidylinositol transfer protein
+CNAG_06392,SGF29,,,20581290,putative saga histone acetyltransferase complex component
+CNAG_04693,SIN1,,,22339665,target of rapamycin complex 2 subunit
+CNAG_00828,SIP401,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNAG_02555,SIP402,,,18854164,Zn2-Cys6 zinc-finger transcription factor
+CNAG_00815,SIT1,,,15720553,siderophore iron transporter
+CNAG_02083,SIT2,SIT1,20174553,19820119,siderochrome-iron transporter
+CNAG_00897,SKN1,,,20384682,putative glucosidase
+CNAG_03409,SKN7,SKN702,18854164,16041017,response regulator and transcription factor
+CNAG_02237,SLA2,,,22562467,actin cortical patch component
+CNAG_05247,SLC1,,,22412978,1-acyl-sn-glycerol-3-phosphate acyltransferase
+CNAG_01863,SNF2,,,19542307,chromatin remodeling complex ATPase
+CNAG_00740,SNF5,,,16102007,swi/snf chromatin-remodeling complex subunit
+CNAG_00051,SNT1,,,18854164,putative set3c deacetylase complex subunit
+CNAG_01019,SOD1,,,12622821,copper/zinc superoxide dismutase
+CNAG_04388,SOD2,,,19542307,putative mitochondrial manganese superoxide dismutase
+CNAG_03918,SOG2,,,16775005,ram signaling network protein
+CNAG_02133,SOL3,,,19542307,6-phosphogluconolactonase
+CNAG_00156,SP1,CRZ1,23251520,21487010,zinc finger transcription factor
+CNAG_06812,SPO14alpha,,,12455690,phospholipase D1
+CNAG_03406,SPP101,,,18854164,putative compass/set1c complex subunit
+CNAG_05766,SPR1,,,18854164,glycosyl hydrolase
+CNAG_05290,SPT3,,,20581290,predicted saga histone acetyltransferase complex component
+CNAG_03850,SPT7,,,20581290,predicted saga histone acetyltransferase complex component
+CNAG_06597,SPT8,,,20581290,predicted saga histone acetyltransferase complex component
+CNAG_04804,SRE1,,,17462012,sterol regulatory element-binding protein
+CNAG_00654,SRX1,,,19542307,sulfiredoxin
+CNAG_06443,SSA1,KAR2,23484059,17040492,putative ATPase and ER protein chaperone similar to Kar2
+CNAG_03345,SSD1,,,16194228,putative translational repressor
+CNAG_03818,SSK1,,,16672377,two-component system response regulator
+CNAG_05063,SSK2,,,17951522,ste/ste11/ssk protein kinase
+CNAG_00440,SSN801,,,21559476,cyclin subunit of mediator subcomplex
+CNAG_00067,SSS1,,,21602483,sec61 translocation complex protein
+CNAG_05785,STB4,,,18854164,putative transcription factor
+CNAG_06980,STE11alpha,,,12455690,"mapkk kinase, ste/ste11 protein kinase"
+CNAG_01454,STE12alpha,,,12455690,ste-like transcription factor
+CNAG_07408,STE20alpha,,,12455960,ste/ste20/paka protein kinase
+CNAG_06808,STE3alpha,,,12455960,a-factor pheromone receptor
+CNAG_07507,STE50,,,20971202,mapk signaling pathway adaptor protein
+CNAG_03600,STE6,,,22466042,putative pheromone transporter
+CNAG_01730,STE7,,,12828643,map kinase kinase
+CNAG_01683,STL1,,,19542307,putative monosaccharide transporter
+CNAG_05742,STP1,,,17319742,putative site-2 protease
+CNAG_03171,SWE1,,,20696827,serine/threonine-protein kinase
+CNAG_06814,SXI1alpha,,,12464634,alpha cell-type homeodomain transcription factor
+CNAG_01972,TAF10,,,20581290,C2H2 zinc finger protein
+CNAG_06861,TAF12,,,20581290,putative TFIID and saga complex component
+CNAG_05428,TAF5,,,20581290,putative TFIID and saga complex component
+CNAG_02536,TAF6,,,20581290,putative TFIID and saga complex component
+CNAG_07565,TAF9,,,20581290,putative TFIID and saga complex component
+CNAG_01984,TAL1,,,16524907,transaldolase
+CNAG_03622,TAO3,,,16775005,ram signaling network cell polarity protein
+CNAG_01850,TCO1,,,16672377,two-component-like sensor kinase
+CNAG_05590,TCO2,,,16672377,two-component-like sensor kinase
+CNAG_03355,TCO4,,,16672377,two-component-like sensor kinase
+CNAG_00106,TCO5,,,16672377,two-component-like sensor kinase
+CNAG_00363,TCO6,,,16672377,two-component-like sensor kinase
+CNAG_06278,TCO7,,,16672377,two-component-like sensor kinase
+CNAG_06125,TEF1,,,9367655,elongation factor 1-alpha
+CNAG_03301,TIM13,,,20581290,mitochondrial import inner membrane translocase subunit
+CNAG_05220,TLK1,,,22412978,Tor-like phosphatidylinositol 3 kinase
+CNAG_07769,TOM1,,,19542307,e3 ubiquitin-protein ligase
+CNAG_04190,TOP1,,,19542307,DNA topoisomerase 1
+CNAG_06642,TOR1,,,10330150,Tor protein kinase
+CNAG_05701,TPM1,,,22562467,tropomyosin
+CNAG_05292,TPS1,,,16988267,alpha-alpha trehalose-phosphate synthase
+CNAG_03765,TPS2,,,16988267,trehalose-6-phophate phosphatase
+CNAG_07377,TRA1,,,20581290,putative saga and nua4 histone acetyltransferase complex subunit
+CNAG_04501,TRP1,,,1452032,phosphoribosylanthranilate isomerase
+CNAG_05847,TRR1,,,19542307,thioredoxin reductase
+CNAG_02801,TRX1,,,16045626,thioredoxin
+CNAG_01607,TRX2,,,16045626,thioredoxin
+CNAG_03482,TSA1,,,16524907,thiol peroxidase
+CNAG_03293,TSR2,,,19542307,pre-rRNA-processing protein
+CNAG_01840,TUB1,TUB2,19542307,9202476,tubulin beta chain
+CNAG_04948,TUB2,,,9202476,tubulin beta chain
+CNAG_06914,TUB4,,,19542307,gamma-tubulin
+CNAG_02153,TUP1,,,19820119,general transcriptional repressor
+CNAG_06817,UAP1,,,12455690,uric acid xanthine permease
+CNAG_05896,UBA2,,,21602483,ubiquitin-activating enzyme e1-like
+CNAG_01692,UBA3,,,22719877,rub1/nedd8 activating enzyme
+CNAG_00986,UBA4,,,18854164,urm1 activating enzyme
+CNAG_04668,UBC12,,,22719877,ubiquitin-conjugating enzyme
+CNAG_01084,UBC4,,,19542307,ubiquitin conjugating enzyme
+CNAG_05765,UBC6,,,19542307,ubiquitin-conjugating enzyme
+CNAG_02214,UBC6-2,,,19542307,ubiquitin conjugating enzyme
+CNAG_06592,UBC7,,,19542307,ubiquitin-conjugating enzyme
+CNAG_04611,UBC8,,,19542307,ubiquitin conjugating enzyme
+CNAG_00370,UBI1,,,7642124,predicted ubiquitin-ribosomal 60s subunit protein L40a fusion protein
+CNAG_01920,UBI4,,,7642124,ubiquitin precursor
+CNAG_01614,UBP10,,,22719877,putative ubiquitin carboxyl-terminal hydrolase
+CNAG_01377,UBP13,,,22719877,pab-dependent poly(A)-specific ribonuclease subunit
+CNAG_05708,UBP14,,,18854164,ubiquitin carboxyl-terminal hydrolase;
+CNAG_00187,UBP16,,,18854164,ubiquitin carboxyl-terminal hydrolase
+CNAG_05650,UBP5,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CNAG_03872,UBP7,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CNAG_00989,UCH2,,,22719877,ubiquitin carboxyl-terminal hydrolase
+CNAG_01251,UFD4,,,18854164,e3 ubiquitin-protein ligase
+CNAG_04969,UGD1,,,15590833,UDP-glucose 6-dehydrogenase
+CNAG_00697,UGE1,,,17462022,UDP-glucose epimerase
+CNAG_06050,UGE2,,,18820075,UDP-glucose 4-epimerase
+CNAG_05139,UGT1,,,17462022,putative UDP-galactose transporter
+CNAG_04961,URA3,,,1573522,orotidine-5'-phosphate decarboxylase
+CNAG_03196,URA5,,,2201894,orotidine monophosphate pyrophosphorylase
+CNAG_05540,URE1,,,10639402,urease
+CNAG_01167,URE2,,,23653445,"protein of unknown function, smc3 ortholog"
+CNAG_01166,URE4,,,23653445,urease accessory protein
+CNAG_02057,URE6,,,23653445,urease accessory protein
+CNAG_00678,URE7,,,23653445,urease accessory protein
+CNAG_03367,URK1,,,20485569,uridine kinase
+CNAG_05086,URM1,,,22719877,ubiquitin-related modifier
+CNAG_03213,UVE1,,,24039606,UV DNA damage endonuclease
+CNAG_03322,UXS1,,,11593010,UDP-glucuronic acid decarboxylase
+CNAG_01537,VAD1,,,15765146,virulence associated ATP-dependent mRNA helicase
+CNAG_05395,VAM6,,,18854164,rab guanyl-nucleotide exchange factor
+CNAG_00025,VCX1,,,20889719,vacuolar calcium exchanger
+CNAG_01106,VPH1,,,11737651,vacuolar-ATPase subunit
+CNAG_00565,VPS1,,,19542307,dynamin GTPase
+CNAG_00508,VPS17,,,19542307,membrane-associated retromer complex subunit
+CNAG_01720,VPS23,,,23132495,predicted escrt-I complex protein
+CNAG_04863,VPS25,,,18854164,escrt-II complex subunit
+CNAG_04510,VPS4,,,19542307,AAA-ATPase
+CNAG_04293,VPS41,,,16879414,vacuolar protein sorting-associated protein
+CNAG_02029,WSP1,,,21357479,Wiskott-Aldrich syndrome protein (wasp) homolog
+CNAG_06923,XFP2,,,24659577,xylulose 5-phosphate/fructose 6-phosphate phosphoketolase
+CNAG_05797,XRN2,,,25267175,5'-3' exoribonuclease
+CNAG_07593,YAP4,,,16045626,bZip transcription factor
+CNAG_03637,YKU80,,,18854164,ATP-dependent DNA helicase
+CNAG_06646,YOP1,,,22731401,membrane trafficking and ER morphology protein
+CNAG_03503,YOR1,,,19542307,ATP-binding cassette transporter
+CNAG_03229,YOX101,,,18854164,homeobox transcriptional repressor
+CNAG_06151,YPD1,,,16672377,"histidine kinase two-component system, phosphorelay intermediate protein"
+CNAG_04678,YPK1,,,22339665,protein kinase
+CNAG_02476,YRM101,,,18854164,putative transcription factor
+CNAG_04093,YRM103,,,18854164,putative transcription factor
+CNAG_02986,YSA1,,,25361768,ADP-ribose pyrophosphatase
+CNAG_04352,ZAP103,,,18854164,putative zinc finger transcription factor
+CNAG_05392,ZAP104,ZAP1,22916306,18854164,putative zinc finger transcription factor
+CNAG_05791,ZDS3,,,21726407,zds-like protein
+CNAG_00895,ZIP1,,,22916306,zinc ion transporter
+CNAG_03398,ZIP2,,,22916306,zinc ion transporter
+CNAG_02221,ZIP3,,,22916306,zinc ion transporter
+CNAG_03366,ZNF2,,,20485569,C2-H2 zinc-finger transcription factor
+CNAG_03245,ZWF1,,,20400467,glucose-6-phosphate dehydrogenase
+CNAG_04392,,MFE2,23078142,,sterol-binding protein
+CNAG_03967,,,,22562467,f-actin-capping protein subunit alpha
+CNAG_03900,,,,22562467,f-actin-capping protein subunit beta
+CNAG_02260,,CRG1,17581859,,xap5-domain-containing protein
